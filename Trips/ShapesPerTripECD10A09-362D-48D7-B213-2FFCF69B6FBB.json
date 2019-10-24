@@ -1,0 +1,800 @@
+[
+  {
+    "shape_pt_sequence" : 0,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 26.074407999999998,
+    "shape_pt_lat" : 44.446767999999999
+  },
+  {
+    "shape_pt_sequence" : 1,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 26.012861600000001,
+    "shape_pt_lat" : 44.936664
+  },
+  {
+    "shape_pt_sequence" : 2,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 26.012861600000001,
+    "shape_pt_lat" : 44.936664
+  },
+  {
+    "shape_pt_sequence" : 3,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.5623504,
+    "shape_pt_lat" : 45.3310429
+  },
+  {
+    "shape_pt_sequence" : 4,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.56272899999999,
+    "shape_pt_lat" : 45.331396999999988
+  },
+  {
+    "shape_pt_sequence" : 5,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.56272899999999,
+    "shape_pt_lat" : 45.331396999999988
+  },
+  {
+    "shape_pt_sequence" : 6,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.553109000000006,
+    "shape_pt_lat" : 45.337896999999991
+  },
+  {
+    "shape_pt_sequence" : 7,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.550963000000024,
+    "shape_pt_lat" : 45.348154999999991
+  },
+  {
+    "shape_pt_sequence" : 8,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.556037000000032,
+    "shape_pt_lat" : 45.355978
+  },
+  {
+    "shape_pt_sequence" : 9,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.551940999999999,
+    "shape_pt_lat" : 45.361505999999999
+  },
+  {
+    "shape_pt_sequence" : 10,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.543708000000009,
+    "shape_pt_lat" : 45.372078999999999
+  },
+  {
+    "shape_pt_sequence" : 11,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.541347000000002,
+    "shape_pt_lat" : 45.390721999999997
+  },
+  {
+    "shape_pt_sequence" : 12,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.536543000000023,
+    "shape_pt_lat" : 45.399702999999988
+  },
+  {
+    "shape_pt_sequence" : 13,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.53561700000003,
+    "shape_pt_lat" : 45.413056000000005
+  },
+  {
+    "shape_pt_sequence" : 14,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.535618000000028,
+    "shape_pt_lat" : 45.413056000000005
+  },
+  {
+    "shape_pt_sequence" : 15,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.535618000000028,
+    "shape_pt_lat" : 45.413056000000005
+  },
+  {
+    "shape_pt_sequence" : 16,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.541234000000003,
+    "shape_pt_lat" : 45.418917999999991
+  },
+  {
+    "shape_pt_sequence" : 17,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.550993999999974,
+    "shape_pt_lat" : 45.422933999999977
+  },
+  {
+    "shape_pt_sequence" : 18,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.553417999999994,
+    "shape_pt_lat" : 45.43018099999999
+  },
+  {
+    "shape_pt_sequence" : 19,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.550400999999994,
+    "shape_pt_lat" : 45.440485999999986
+  },
+  {
+    "shape_pt_sequence" : 20,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.552641000000023,
+    "shape_pt_lat" : 45.444999999999993
+  },
+  {
+    "shape_pt_sequence" : 21,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.552641000000023,
+    "shape_pt_lat" : 45.445001000000005
+  },
+  {
+    "shape_pt_sequence" : 22,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.552641000000023,
+    "shape_pt_lat" : 45.445001000000005
+  },
+  {
+    "shape_pt_sequence" : 23,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.563733000000013,
+    "shape_pt_lat" : 45.453474999999983
+  },
+  {
+    "shape_pt_sequence" : 24,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.563631000000015,
+    "shape_pt_lat" : 45.462894999999996
+  },
+  {
+    "shape_pt_sequence" : 25,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.560192999999998,
+    "shape_pt_lat" : 45.469694999999987
+  },
+  {
+    "shape_pt_sequence" : 26,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.573345999999987,
+    "shape_pt_lat" : 45.498182999999997
+  },
+  {
+    "shape_pt_sequence" : 27,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.575395000000043,
+    "shape_pt_lat" : 45.505091999999991
+  },
+  {
+    "shape_pt_sequence" : 28,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.575448000000023,
+    "shape_pt_lat" : 45.505464999999994
+  },
+  {
+    "shape_pt_sequence" : 29,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.575448000000023,
+    "shape_pt_lat" : 45.505466000000006
+  },
+  {
+    "shape_pt_sequence" : 30,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.575448000000023,
+    "shape_pt_lat" : 45.505466000000006
+  },
+  {
+    "shape_pt_sequence" : 31,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.578614000000016,
+    "shape_pt_lat" : 45.513241000000001
+  },
+  {
+    "shape_pt_sequence" : 32,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.586795999999993,
+    "shape_pt_lat" : 45.514841999999994
+  },
+  {
+    "shape_pt_sequence" : 33,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.591350000000006,
+    "shape_pt_lat" : 45.51880700000001
+  },
+  {
+    "shape_pt_sequence" : 34,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.598049000000003,
+    "shape_pt_lat" : 45.517563999999979
+  },
+  {
+    "shape_pt_sequence" : 35,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.60955899999999,
+    "shape_pt_lat" : 45.518216999999993
+  },
+  {
+    "shape_pt_sequence" : 36,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.604844000000043,
+    "shape_pt_lat" : 45.520816000000003
+  },
+  {
+    "shape_pt_sequence" : 37,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.590377999999987,
+    "shape_pt_lat" : 45.521718999999997
+  },
+  {
+    "shape_pt_sequence" : 38,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.57811300000003,
+    "shape_pt_lat" : 45.523210999999989
+  },
+  {
+    "shape_pt_sequence" : 39,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.575008999999994,
+    "shape_pt_lat" : 45.526703999999988
+  },
+  {
+    "shape_pt_sequence" : 40,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.582728000000003,
+    "shape_pt_lat" : 45.535465000000002
+  },
+  {
+    "shape_pt_sequence" : 41,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.587990000000019,
+    "shape_pt_lat" : 45.54256500000001
+  },
+  {
+    "shape_pt_sequence" : 42,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.587828999999999,
+    "shape_pt_lat" : 45.550655999999996
+  },
+  {
+    "shape_pt_sequence" : 43,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.593609000000015,
+    "shape_pt_lat" : 45.556758999999992
+  },
+  {
+    "shape_pt_sequence" : 44,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.599617000000023,
+    "shape_pt_lat" : 45.561802999999991
+  },
+  {
+    "shape_pt_sequence" : 45,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.606529000000023,
+    "shape_pt_lat" : 45.566619999999993
+  },
+  {
+    "shape_pt_sequence" : 46,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.609524999999991,
+    "shape_pt_lat" : 45.57139200000001
+  },
+  {
+    "shape_pt_sequence" : 47,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.615940000000023,
+    "shape_pt_lat" : 45.576225999999998
+  },
+  {
+    "shape_pt_sequence" : 48,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.623016000000007,
+    "shape_pt_lat" : 45.584263999999976
+  },
+  {
+    "shape_pt_sequence" : 49,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.63122999999996,
+    "shape_pt_lat" : 45.590924999999999
+  },
+  {
+    "shape_pt_sequence" : 50,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.647131999999999,
+    "shape_pt_lat" : 45.601912000000006
+  },
+  {
+    "shape_pt_sequence" : 51,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.657645000000031,
+    "shape_pt_lat" : 45.612785000000009
+  },
+  {
+    "shape_pt_sequence" : 52,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.629569000000032,
+    "shape_pt_lat" : 45.659362999999999
+  },
+  {
+    "shape_pt_sequence" : 53,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.620651000000009,
+    "shape_pt_lat" : 45.660729999999994
+  },
+  {
+    "shape_pt_sequence" : 54,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.61373900000001,
+    "shape_pt_lat" : 45.661611999999977
+  },
+  {
+    "shape_pt_sequence" : 55,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.613710000000001,
+    "shape_pt_lat" : 45.661515999999999
+  },
+  {
+    "shape_pt_sequence" : 56,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.788579599999998,
+    "shape_pt_lat" : 45.860937499999999
+  },
+  {
+    "shape_pt_sequence" : 57,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.788579599999998,
+    "shape_pt_lat" : 45.860937499999999
+  },
+  {
+    "shape_pt_sequence" : 58,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.795365499999999,
+    "shape_pt_lat" : 46.369557399999998
+  },
+  {
+    "shape_pt_sequence" : 59,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.795365499999999,
+    "shape_pt_lat" : 46.369557399999998
+  },
+  {
+    "shape_pt_sequence" : 60,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.585527500000001,
+    "shape_pt_lat" : 46.721211199999999
+  },
+  {
+    "shape_pt_sequence" : 61,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 25.585527500000001,
+    "shape_pt_lat" : 46.721211199999999
+  },
+  {
+    "shape_pt_sequence" : 62,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.866266,
+    "shape_pt_lat" : 46.938865
+  },
+  {
+    "shape_pt_sequence" : 63,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.866266,
+    "shape_pt_lat" : 46.938865
+  },
+  {
+    "shape_pt_sequence" : 64,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.412172999999999,
+    "shape_pt_lat" : 47.054080999999996
+  },
+  {
+    "shape_pt_sequence" : 65,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.412172999999999,
+    "shape_pt_lat" : 47.054080999999996
+  },
+  {
+    "shape_pt_sequence" : 66,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.170403100000001,
+    "shape_pt_lat" : 47.1800681
+  },
+  {
+    "shape_pt_sequence" : 67,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.170403100000001,
+    "shape_pt_lat" : 47.1800681
+  },
+  {
+    "shape_pt_sequence" : 68,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.339884999999999,
+    "shape_pt_lat" : 47.301985000000002
+  },
+  {
+    "shape_pt_sequence" : 69,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.339974000000041,
+    "shape_pt_lat" : 47.301872999999979
+  },
+  {
+    "shape_pt_sequence" : 70,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.348698000000041,
+    "shape_pt_lat" : 47.305603999999988
+  },
+  {
+    "shape_pt_sequence" : 71,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.355481999999995,
+    "shape_pt_lat" : 47.311675999999991
+  },
+  {
+    "shape_pt_sequence" : 72,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.370602999999988,
+    "shape_pt_lat" : 47.323116999999996
+  },
+  {
+    "shape_pt_sequence" : 73,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.380405999999994,
+    "shape_pt_lat" : 47.332957999999977
+  },
+  {
+    "shape_pt_sequence" : 74,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.383928999999995,
+    "shape_pt_lat" : 47.345189999999988
+  },
+  {
+    "shape_pt_sequence" : 75,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.387545000000017,
+    "shape_pt_lat" : 47.354016999999978
+  },
+  {
+    "shape_pt_sequence" : 76,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.387079000000028,
+    "shape_pt_lat" : 47.361905
+  },
+  {
+    "shape_pt_sequence" : 77,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.392502000000007,
+    "shape_pt_lat" : 47.371052999999982
+  },
+  {
+    "shape_pt_sequence" : 78,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.390533000000005,
+    "shape_pt_lat" : 47.384455000000003
+  },
+  {
+    "shape_pt_sequence" : 79,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.385621000000015,
+    "shape_pt_lat" : 47.396571999999999
+  },
+  {
+    "shape_pt_sequence" : 80,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.387450000000001,
+    "shape_pt_lat" : 47.404421999999983
+  },
+  {
+    "shape_pt_sequence" : 81,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.391649000000029,
+    "shape_pt_lat" : 47.414791999999991
+  },
+  {
+    "shape_pt_sequence" : 82,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.395284000000032,
+    "shape_pt_lat" : 47.422515999999995
+  },
+  {
+    "shape_pt_sequence" : 83,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.398951000000039,
+    "shape_pt_lat" : 47.428937999999981
+  },
+  {
+    "shape_pt_sequence" : 84,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.398651000000001,
+    "shape_pt_lat" : 47.432867999999992
+  },
+  {
+    "shape_pt_sequence" : 85,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.392112999999995,
+    "shape_pt_lat" : 47.439363999999998
+  },
+  {
+    "shape_pt_sequence" : 86,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.384015000000005,
+    "shape_pt_lat" : 47.445993999999999
+  },
+  {
+    "shape_pt_sequence" : 87,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.39059800000004,
+    "shape_pt_lat" : 47.455337999999998
+  },
+  {
+    "shape_pt_sequence" : 88,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.387839000000014,
+    "shape_pt_lat" : 47.462805999999986
+  },
+  {
+    "shape_pt_sequence" : 89,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.383619000000039,
+    "shape_pt_lat" : 47.470430999999998
+  },
+  {
+    "shape_pt_sequence" : 90,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.389494000000013,
+    "shape_pt_lat" : 47.480500000000006
+  },
+  {
+    "shape_pt_sequence" : 91,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.386858000000018,
+    "shape_pt_lat" : 47.486275000000006
+  },
+  {
+    "shape_pt_sequence" : 92,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.390781000000032,
+    "shape_pt_lat" : 47.497078999999985
+  },
+  {
+    "shape_pt_sequence" : 93,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.395137000000005,
+    "shape_pt_lat" : 47.50974200000001
+  },
+  {
+    "shape_pt_sequence" : 94,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.397840000000031,
+    "shape_pt_lat" : 47.516632000000008
+  },
+  {
+    "shape_pt_sequence" : 95,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.40304900000001,
+    "shape_pt_lat" : 47.525032999999986
+  },
+  {
+    "shape_pt_sequence" : 96,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.417007000000041,
+    "shape_pt_lat" : 47.531929999999996
+  },
+  {
+    "shape_pt_sequence" : 97,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.426545000000004,
+    "shape_pt_lat" : 47.534797999999995
+  },
+  {
+    "shape_pt_sequence" : 98,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.435932000000037,
+    "shape_pt_lat" : 47.540354000000001
+  },
+  {
+    "shape_pt_sequence" : 99,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.439698000000021,
+    "shape_pt_lat" : 47.551708999999988
+  },
+  {
+    "shape_pt_sequence" : 100,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.434195000000017,
+    "shape_pt_lat" : 47.561271999999988
+  },
+  {
+    "shape_pt_sequence" : 101,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.416074000000009,
+    "shape_pt_lat" : 47.571959000000007
+  },
+  {
+    "shape_pt_sequence" : 102,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.415773000000002,
+    "shape_pt_lat" : 47.577724000000003
+  },
+  {
+    "shape_pt_sequence" : 103,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.421993000000015,
+    "shape_pt_lat" : 47.58129599999998
+  },
+  {
+    "shape_pt_sequence" : 104,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.421993000000015,
+    "shape_pt_lat" : 47.58129599999998
+  },
+  {
+    "shape_pt_sequence" : 105,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.422135999999998,
+    "shape_pt_lat" : 47.581296999999999
+  },
+  {
+    "shape_pt_sequence" : 106,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.364350999999999,
+    "shape_pt_lat" : 47.724013999999997
+  },
+  {
+    "shape_pt_sequence" : 107,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.364350999999999,
+    "shape_pt_lat" : 47.724013999999997
+  },
+  {
+    "shape_pt_sequence" : 108,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.1774047,
+    "shape_pt_lat" : 47.9381311
+  },
+  {
+    "shape_pt_sequence" : 109,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.179214000000002,
+    "shape_pt_lat" : 47.937990999999997
+  },
+  {
+    "shape_pt_sequence" : 110,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.179169999999999,
+    "shape_pt_lat" : 47.937727999999993
+  },
+  {
+    "shape_pt_sequence" : 111,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.172340999999989,
+    "shape_pt_lat" : 47.933287
+  },
+  {
+    "shape_pt_sequence" : 112,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.167370000000005,
+    "shape_pt_lat" : 47.927548999999999
+  },
+  {
+    "shape_pt_sequence" : 113,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.162973999999991,
+    "shape_pt_lat" : 47.915499999999987
+  },
+  {
+    "shape_pt_sequence" : 114,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.157476000000031,
+    "shape_pt_lat" : 47.914483999999995
+  },
+  {
+    "shape_pt_sequence" : 115,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.147695999999996,
+    "shape_pt_lat" : 47.914139999999989
+  },
+  {
+    "shape_pt_sequence" : 116,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.142202000000026,
+    "shape_pt_lat" : 47.910524000000002
+  },
+  {
+    "shape_pt_sequence" : 117,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.127610000000033,
+    "shape_pt_lat" : 47.915122999999994
+  },
+  {
+    "shape_pt_sequence" : 118,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.113225,
+    "shape_pt_lat" : 47.914220999999984
+  },
+  {
+    "shape_pt_sequence" : 119,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.10554700000003,
+    "shape_pt_lat" : 47.921446999999993
+  },
+  {
+    "shape_pt_sequence" : 120,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.097394000000008,
+    "shape_pt_lat" : 47.936141999999982
+  },
+  {
+    "shape_pt_sequence" : 121,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.08635000000001,
+    "shape_pt_lat" : 47.940925
+  },
+  {
+    "shape_pt_sequence" : 122,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.044182000000006,
+    "shape_pt_lat" : 47.948631999999989
+  },
+  {
+    "shape_pt_sequence" : 123,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.031389999999959,
+    "shape_pt_lat" : 47.948924999999996
+  },
+  {
+    "shape_pt_sequence" : 124,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.01880700000001,
+    "shape_pt_lat" : 47.960264999999985
+  },
+  {
+    "shape_pt_sequence" : 125,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 24.005842000000001,
+    "shape_pt_lat" : 47.964227999999991
+  },
+  {
+    "shape_pt_sequence" : 126,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 23.997809000000018,
+    "shape_pt_lat" : 47.954689999999992
+  },
+  {
+    "shape_pt_sequence" : 127,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 23.968258999999989,
+    "shape_pt_lat" : 47.948943999999976
+  },
+  {
+    "shape_pt_sequence" : 128,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 23.946787,
+    "shape_pt_lat" : 47.939894000000002
+  },
+  {
+    "shape_pt_sequence" : 129,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 23.916801999999961,
+    "shape_pt_lat" : 47.942987999999993
+  },
+  {
+    "shape_pt_sequence" : 130,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 23.910187000000008,
+    "shape_pt_lat" : 47.943595000000002
+  },
+  {
+    "shape_pt_sequence" : 131,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 23.885539000000023,
+    "shape_pt_lat" : 47.935737999999986
+  },
+  {
+    "shape_pt_sequence" : 132,
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "shape_pt_lon" : 23.885539000000023,
+    "shape_pt_lat" : 47.935737999999986
+  }
+]

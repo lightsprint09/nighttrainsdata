@@ -1,0 +1,3053 @@
+[
+  {
+    "trip_short_name" : "RT 606",
+    "direction_id" : 0,
+    "trip_headsign" : "Bergen - Oslo",
+    "service_id" : "noService",
+    "shape_id" : "5F28E22B-9AF1-451C-BB4B-A4FE435F593E",
+    "route_id" : "EC48C812-2ADD-4658-8F66-2D48ED33D6FE",
+    "trip_id" : "3EB9A225-4DAE-453D-8B08-CC227AE270B2"
+  },
+  {
+    "trip_short_name" : "RT 605",
+    "direction_id" : 0,
+    "trip_headsign" : "Oslo - Bergen",
+    "service_id" : "noService",
+    "shape_id" : "255DBFCC-1114-4B7A-934E-AE235313BD13",
+    "route_id" : "EC48C812-2ADD-4658-8F66-2D48ED33D6FE",
+    "trip_id" : "42BD3C7E-1C92-431A-9B27-384ED55D1545"
+  },
+  {
+    "trip_short_name" : "NT 71",
+    "direction_id" : 0,
+    "trip_headsign" : "Duved - Gothenburg",
+    "service_id" : "noService",
+    "shape_id" : "DC3A2F17-CFF9-43D6-B361-3E241C86C06A",
+    "route_id" : "C14C586F-6DB0-43BA-9BB0-509DC6A22FEE",
+    "trip_id" : "8D29973E-A4C0-4C4F-990D-56DCB2C0B63E"
+  },
+  {
+    "trip_short_name" : "NT 72",
+    "direction_id" : 0,
+    "trip_headsign" : "Gothenburg - Duved",
+    "service_id" : "noService",
+    "shape_id" : "4CA61EDD-C6F5-4252-9905-9359E9A5A00F",
+    "route_id" : "C14C586F-6DB0-43BA-9BB0-509DC6A22FEE",
+    "trip_id" : "3FAD3A87-0BB2-4883-B12D-4A4B34E192C2"
+  },
+  {
+    "trip_short_name" : "P 270",
+    "direction_id" : 0,
+    "trip_headsign" : "Kolari - Helsinki",
+    "service_id" : "noService",
+    "shape_id" : "81F0AA91-C650-45D6-B3E2-D13FC90C96C2",
+    "route_id" : "E3499A6D-BAAF-4070-852F-EB3B6D333EC5",
+    "trip_id" : "E2A56930-E4BA-419E-8DA4-CCDD43BE947F"
+  },
+  {
+    "trip_short_name" : "ICN 1963",
+    "direction_id" : 0,
+    "trip_headsign" : "Milan - Palermo",
+    "service_id" : "noService",
+    "shape_id" : "B3BF6D19-0992-4AC5-B423-6B99C155FAC9",
+    "route_id" : "22C4512F-9B2D-4D9D-99EC-97CBAA83205E",
+    "trip_id" : "63C0345A-1621-4FFC-B8DE-55991C04245F"
+  },
+  {
+    "trip_short_name" : "ICN 1964",
+    "direction_id" : 0,
+    "trip_headsign" : "Palermo - Milan",
+    "service_id" : "noService",
+    "shape_id" : "D239CDAF-772E-4DDB-B69E-159349276D9D",
+    "route_id" : "22C4512F-9B2D-4D9D-99EC-97CBAA83205E",
+    "trip_id" : "C5E47209-5AA7-46FB-8904-F1AD1D8E5897"
+  },
+  {
+    "trip_short_name" : "NJ 471",
+    "direction_id" : 0,
+    "trip_headsign" : "Berlin - Zurich",
+    "service_id" : "noService",
+    "shape_id" : "57E27DD0-39E7-4338-9A79-1A6982508439",
+    "route_id" : "FD177DDA-7B00-44B3-A110-AEE6C1B583A7",
+    "trip_id" : "94C9C4EC-2BBC-4FE9-8352-B3EDCC6DDA2F"
+  },
+  {
+    "trip_short_name" : "NJ 470",
+    "direction_id" : 0,
+    "trip_headsign" : "Zurich - Berlin",
+    "service_id" : "noService",
+    "shape_id" : "719AE9C4-0263-4CEB-9C0E-616C179CF2D7",
+    "route_id" : "FD177DDA-7B00-44B3-A110-AEE6C1B583A7",
+    "trip_id" : "528CA9B0-128F-4B9B-B8E7-D6B86119C8FD"
+  },
+  {
+    "trip_short_name" : "EN 480",
+    "direction_id" : 0,
+    "trip_headsign" : "Rijeka - Munich",
+    "service_id" : "noService",
+    "shape_id" : "4256EAB0-3CF0-4657-95E5-A820241C2388",
+    "route_id" : "F19A96BE-8711-4B7D-AA24-651D73E1044D",
+    "trip_id" : "5C2B469C-FC0E-48D5-ACB1-CC2D4C725CA9"
+  },
+  {
+    "trip_short_name" : "EN 60463",
+    "direction_id" : 0,
+    "trip_headsign" : "Munich - Rijeka",
+    "service_id" : "noService",
+    "shape_id" : "ED3B1327-4E16-4A97-AC67-AD8DA0332D27",
+    "route_id" : "F19A96BE-8711-4B7D-AA24-651D73E1044D",
+    "trip_id" : "BA5601C1-65A1-46A7-AF80-2B419C4C7123"
+  },
+  {
+    "trip_short_name" : "EN 443\/406",
+    "direction_id" : 0,
+    "trip_headsign" : "Prague - Warsaw",
+    "service_id" : "noService",
+    "shape_id" : "4359FC3C-6088-46D2-AB10-15921635DD0D",
+    "route_id" : "88B6245B-F52B-4AAE-8ADE-E1DA9701B950",
+    "trip_id" : "15F82605-552A-4E47-8E75-2556D901B742"
+  },
+  {
+    "trip_short_name" : "EN 407\/442",
+    "direction_id" : 0,
+    "trip_headsign" : "Warsaw - Prague",
+    "service_id" : "noService",
+    "shape_id" : "2EC52281-E437-438C-B71D-10B5ECB1D239",
+    "route_id" : "88B6245B-F52B-4AAE-8ADE-E1DA9701B950",
+    "trip_id" : "79B09DF9-AC31-42F8-AB5B-F1241FD71E8D"
+  },
+  {
+    "trip_short_name" : "NT 71\/91",
+    "direction_id" : 0,
+    "trip_headsign" : "Duved - Stockholm",
+    "service_id" : "noService",
+    "shape_id" : "A6192A1A-D6A9-49C5-8B47-6060EBD46ACF",
+    "route_id" : "709E1225-1813-4979-868C-B4D6621C1D95",
+    "trip_id" : "1383CD18-90ED-4269-9BF4-AE620EFD0602"
+  },
+  {
+    "trip_short_name" : "NT 92\/72",
+    "direction_id" : 0,
+    "trip_headsign" : "Stockholm - Duved",
+    "service_id" : "noService",
+    "shape_id" : "B2F1C32A-EAA9-49A8-823F-92A45769C171",
+    "route_id" : "709E1225-1813-4979-868C-B4D6621C1D95",
+    "trip_id" : "898F9AC4-E2E0-427E-9C89-9FEFFA616B95"
+  },
+  {
+    "trip_short_name" : "IR 1822",
+    "direction_id" : 0,
+    "trip_headsign" : "Arad - Constanța",
+    "service_id" : "noService",
+    "shape_id" : "C98A54F5-D90E-4710-9417-C8735BAD6F2D",
+    "route_id" : "F992FD50-873C-40DA-8E64-4839D31779DF",
+    "trip_id" : "87811BA1-B870-4EE9-9C93-61A39E2620A4"
+  },
+  {
+    "trip_short_name" : "IR 1821",
+    "direction_id" : 0,
+    "trip_headsign" : "Constanța - Arad",
+    "service_id" : "noService",
+    "shape_id" : "08B0834C-C6A2-4323-A158-808448013F57",
+    "route_id" : "F992FD50-873C-40DA-8E64-4839D31779DF",
+    "trip_id" : "78E296EB-767E-4410-9DC8-28EFFC15A6B7"
+  },
+  {
+    "trip_short_name" : "IR 1695",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Timișoara",
+    "service_id" : "noService",
+    "shape_id" : "28D90A68-9D17-47B1-AB29-2389ADAD2223",
+    "route_id" : "F5D314FB-1C49-46E2-93B5-C20B4F112BF3",
+    "trip_id" : "EBEBCC8D-C18F-436C-A891-89BEDF4E4383"
+  },
+  {
+    "trip_short_name" : "IR 1696",
+    "direction_id" : 0,
+    "trip_headsign" : "Timișoara - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "D2976D4B-31ED-45C1-AA5A-34EFC6793871",
+    "route_id" : "F5D314FB-1C49-46E2-93B5-C20B4F112BF3",
+    "trip_id" : "98B2D1EC-4340-43F5-AB57-85D8CF15A564"
+  },
+  {
+    "trip_short_name" : "TH 921",
+    "direction_id" : 0,
+    "trip_headsign" : "A Coruña - Barcelona",
+    "service_id" : "noService",
+    "shape_id" : "A5091926-008C-452A-9B03-367762A57C1A",
+    "route_id" : "1E225504-4119-4D4B-98B9-7F63800915CB",
+    "trip_id" : "6473EFEF-5C44-402D-896D-CA3ACD425799"
+  },
+  {
+    "trip_short_name" : "HOT 922",
+    "direction_id" : 0,
+    "trip_headsign" : "Barcelona - A Coruña",
+    "service_id" : "noService",
+    "shape_id" : "6B043B9D-0AA0-4E00-98CE-1A0C386D739A",
+    "route_id" : "1E225504-4119-4D4B-98B9-7F63800915CB",
+    "trip_id" : "8BE49EC2-C737-40DD-B294-1CEE657FE52A"
+  },
+  {
+    "trip_short_name" : "NJ 40491",
+    "direction_id" : 0,
+    "trip_headsign" : "Hamburg - Innsbruck",
+    "service_id" : "noService",
+    "shape_id" : "B9F807D6-0396-4965-B013-C45C3271F640",
+    "route_id" : "965A2CCF-45F3-42B9-A190-FA2A9437F622",
+    "trip_id" : "C6C7C64C-486C-4F9C-B3F1-3E4F6450EA5D"
+  },
+  {
+    "trip_short_name" : "NJ 40420",
+    "direction_id" : 0,
+    "trip_headsign" : "Innsbruck - Hamburg",
+    "service_id" : "noService",
+    "shape_id" : "6EB40AE3-5679-469C-A284-F4FE9E597B0F",
+    "route_id" : "965A2CCF-45F3-42B9-A190-FA2A9437F622",
+    "trip_id" : "3D5320F5-5E2D-4746-A012-5E0528558A98"
+  },
+  {
+    "trip_short_name" : "2P",
+    "direction_id" : 0,
+    "trip_headsign" : "Riga - Moscow",
+    "service_id" : "noService",
+    "shape_id" : "EABF2828-1627-44F2-B238-CAFEC54AA00C",
+    "route_id" : "0999F3C7-97FB-4548-80CB-42FCC119EA91",
+    "trip_id" : "E9379760-CCA7-45C9-98C7-51ECB30BDED2"
+  },
+  {
+    "trip_short_name" : "1P",
+    "direction_id" : 0,
+    "trip_headsign" : "Moscow - Riga",
+    "service_id" : "noService",
+    "shape_id" : "4DBE9B98-A05B-4301-A490-877A57F22577",
+    "route_id" : "0999F3C7-97FB-4548-80CB-42FCC119EA91",
+    "trip_id" : "E2513FEF-CFB9-4DB4-B288-7B0E9B4260B0"
+  },
+  {
+    "trip_short_name" : "D 1490",
+    "direction_id" : 0,
+    "trip_headsign" : "Belgrade - Istanbul",
+    "service_id" : "noService",
+    "shape_id" : "C16062F2-0572-411B-BE1A-FBD7C78CE8E9",
+    "route_id" : "23CCD8E5-6E09-484C-A234-6EC7C9B0A7CB",
+    "trip_id" : "E31EEEAC-CE29-4BFA-BADB-3492BCCE85BE"
+  },
+  {
+    "trip_short_name" : "D 81032",
+    "direction_id" : 0,
+    "trip_headsign" : "Istanbul - Belgrade",
+    "service_id" : "noService",
+    "shape_id" : "1B223DB9-78C8-4A42-8F3E-62EC9CB60AA7",
+    "route_id" : "23CCD8E5-6E09-484C-A234-6EC7C9B0A7CB",
+    "trip_id" : "48AA29BC-6889-4994-B37C-5947E6AD8030"
+  },
+  {
+    "trip_short_name" : "B820",
+    "direction_id" : 0,
+    "trip_headsign" : "Split - Zagreb",
+    "service_id" : "noService",
+    "shape_id" : "47627227-7C19-4CCB-9B4C-EEA9EC800F77",
+    "route_id" : "C2A0B25F-E2CF-4C12-A7BD-75B7A3EACE32",
+    "trip_id" : "F3D6F312-693A-47B5-AD3E-A2A1A12D8949"
+  },
+  {
+    "trip_short_name" : "B821",
+    "direction_id" : 0,
+    "trip_headsign" : "Zagreb - Split",
+    "service_id" : "noService",
+    "shape_id" : "CCDAACD2-FC69-4D1C-929D-161E265050EA",
+    "route_id" : "C2A0B25F-E2CF-4C12-A7BD-75B7A3EACE32",
+    "trip_id" : "E227E48D-A20A-4663-8582-F7516E360968"
+  },
+  {
+    "trip_short_name" : "ICE 1018",
+    "direction_id" : 0,
+    "trip_headsign" : "Munich - Dortmund",
+    "service_id" : "noService",
+    "shape_id" : "C1EE67A7-F826-465D-B93D-E8E2B2502092",
+    "route_id" : "50FD0362-113F-4BAF-80E0-54C23EA45EB1",
+    "trip_id" : "AADD712E-999E-41AC-9C52-1236F005C59F"
+  },
+  {
+    "trip_short_name" : "P 269",
+    "direction_id" : 0,
+    "trip_headsign" : "Helsinki - Kolari",
+    "service_id" : "noService",
+    "shape_id" : "22428635-DA22-4518-834A-003D03DF2C6B",
+    "route_id" : "821E2BD9-4E97-4C42-B12D-833FCEA80EB9",
+    "trip_id" : "E4BFA98C-B274-4DA3-A166-8D3E4D8DBD0C"
+  },
+  {
+    "trip_short_name" : "P 272",
+    "direction_id" : 0,
+    "trip_headsign" : "Kolari - Helsinki",
+    "service_id" : "noService",
+    "shape_id" : "1F263427-0E8B-40BA-BE3B-147A7C8A5682",
+    "route_id" : "821E2BD9-4E97-4C42-B12D-833FCEA80EB9",
+    "trip_id" : "2C5096E1-D3D6-48E3-BFF9-D61FE4E3753F"
+  },
+  {
+    "trip_short_name" : "EN 50456",
+    "direction_id" : 0,
+    "trip_headsign" : "Przemyśl - Berlin",
+    "service_id" : "noService",
+    "shape_id" : "4CDB0AD6-D576-4E1E-B6ED-32DA7A4BEFD0",
+    "route_id" : "9DAAA8FA-2F93-42ED-A6F1-3DD6108DA961",
+    "trip_id" : "4FCA4577-98A8-4DC0-8904-94C8CAAB09E3"
+  },
+  {
+    "trip_short_name" : "T 600",
+    "direction_id" : 0,
+    "trip_headsign" : "Athens - Alexandroupoli",
+    "service_id" : "noService",
+    "shape_id" : "9DC64AFB-729C-4DF6-9F56-C4AE88C20799",
+    "route_id" : "DAE04042-CB89-408E-9B68-40719A5C4BE4",
+    "trip_id" : "2FFFE132-1D67-490E-9511-0C127533F2AB"
+  },
+  {
+    "trip_short_name" : "EN 462",
+    "direction_id" : 0,
+    "trip_headsign" : "Budapest - Munich",
+    "service_id" : "noService",
+    "shape_id" : "D3D02E1C-DDE5-465E-984A-F0B5836B1A7F",
+    "route_id" : "28122DA9-AD69-4EB0-B6F8-5AEE1BAAB306",
+    "trip_id" : "BCF50E4F-3151-4F2C-B50E-1DF864C96115"
+  },
+  {
+    "trip_short_name" : "EN 463",
+    "direction_id" : 0,
+    "trip_headsign" : "Munich - Budapest",
+    "service_id" : "noService",
+    "shape_id" : "696C6B20-AAB6-407B-AF47-83C130CDC026",
+    "route_id" : "28122DA9-AD69-4EB0-B6F8-5AEE1BAAB306",
+    "trip_id" : "CCB60989-FA63-4A05-8FB2-AD4662631377"
+  },
+  {
+    "trip_short_name" : "IC 266\/904",
+    "direction_id" : 0,
+    "trip_headsign" : "Rovaniemi - Turku",
+    "service_id" : "noService",
+    "shape_id" : "F25E442E-9C6C-461F-98DB-3A026B30FABC",
+    "route_id" : "E8F3F547-1860-420F-9BF2-9B2DB1165183",
+    "trip_id" : "9801B3BE-53A4-4D3B-A21F-EE253DAEEE17"
+  },
+  {
+    "trip_short_name" : "IC 933\/273",
+    "direction_id" : 0,
+    "trip_headsign" : "Turku - Rovaniemi",
+    "service_id" : "noService",
+    "shape_id" : "CF50792C-EBAC-40CB-8AAA-AD8E3887271D",
+    "route_id" : "E8F3F547-1860-420F-9BF2-9B2DB1165183",
+    "trip_id" : "63C4AA48-AE06-467B-ABBB-BEC2BC75B222"
+  },
+  {
+    "trip_short_name" : "P 263",
+    "direction_id" : 0,
+    "trip_headsign" : "Helsinki - Kolari",
+    "service_id" : "noService",
+    "shape_id" : "B224D846-1EAB-4570-AFE1-B8EC8C753074",
+    "route_id" : "3681E713-DF17-4D90-B4B3-FD30DC8477E5",
+    "trip_id" : "BAC9E045-B5E5-471B-A60B-33967F6A7631"
+  },
+  {
+    "trip_short_name" : "IC 208",
+    "direction_id" : 0,
+    "trip_headsign" : "Basel - Kiel",
+    "service_id" : "noService",
+    "shape_id" : "8C0C5EDD-932A-406F-8CB0-71EF8729FC3E",
+    "route_id" : "558DBEB5-3FE9-45FA-B3DB-112547BEEDD0",
+    "trip_id" : "4079481C-60D4-40EA-974F-76C9EC2FF57B"
+  },
+  {
+    "trip_short_name" : "IC 209",
+    "direction_id" : 0,
+    "trip_headsign" : "Hamburg - Basel",
+    "service_id" : "noService",
+    "shape_id" : "DC4D4E3D-6087-413A-A1B7-2343FE630015",
+    "route_id" : "558DBEB5-3FE9-45FA-B3DB-112547BEEDD0",
+    "trip_id" : "53414460-502B-457B-87FC-D22756DE2007"
+  },
+  {
+    "trip_short_name" : "T 601",
+    "direction_id" : 0,
+    "trip_headsign" : "Alexandroupoli - Athens",
+    "service_id" : "noService",
+    "shape_id" : "7E93E452-8ED6-4D0E-B5E8-60AE686DCD2D",
+    "route_id" : "42F54BB4-58CE-4ECB-9DE2-24C2D82A91F7",
+    "trip_id" : "AD5CDC4A-FEFA-4729-8384-4B1482A6DC3C"
+  },
+  {
+    "trip_short_name" : "EN 406",
+    "direction_id" : 0,
+    "trip_headsign" : "Vienna - Warsaw",
+    "service_id" : "noService",
+    "shape_id" : "93ECF66F-D448-4A94-8520-206DB630E421",
+    "route_id" : "C483F455-5F21-479C-9FE4-AA06801F6DD2",
+    "trip_id" : "8B98FBF7-FE24-41DB-989F-D50F0B507BD5"
+  },
+  {
+    "trip_short_name" : "EN 407",
+    "direction_id" : 0,
+    "trip_headsign" : "Warsaw - Vienna",
+    "service_id" : "noService",
+    "shape_id" : "D8D653FE-C4A6-4BE9-BDCE-4B2F7F3DA7F6",
+    "route_id" : "C483F455-5F21-479C-9FE4-AA06801F6DD2",
+    "trip_id" : "5A50B37F-9A65-499B-A65B-20706F45E912"
+  },
+  {
+    "trip_short_name" : "ICN 788",
+    "direction_id" : 0,
+    "trip_headsign" : "Lecce - Rome",
+    "service_id" : "noService",
+    "shape_id" : "C54D8E22-8BC8-47F8-A965-D7BDE79A53B8",
+    "route_id" : "4B31C516-545D-49D8-9C00-6B4706FA872E",
+    "trip_id" : "46E82FD8-E3BC-4D0E-9CC7-F9689C187578"
+  },
+  {
+    "trip_short_name" : "ICN 789",
+    "direction_id" : 0,
+    "trip_headsign" : "Rome - Lecce",
+    "service_id" : "noService",
+    "shape_id" : "6B6CBBD8-31BE-442B-B64F-1C6A94A24EC0",
+    "route_id" : "4B31C516-545D-49D8-9C00-6B4706FA872E",
+    "trip_id" : "25332728-F7AC-4844-87D1-50492A1C2430"
+  },
+  {
+    "trip_short_name" : "TLK 37170",
+    "direction_id" : 0,
+    "trip_headsign" : "Krakow - Świnoujście",
+    "service_id" : "noService",
+    "shape_id" : "E83FFCD0-A015-43CF-A7AB-FD94CB3370AD",
+    "route_id" : "78F561CA-AB05-42CE-AA84-10899933FF41",
+    "trip_id" : "579CED21-6F91-4FB2-A4FE-5B0761DFAEF3"
+  },
+  {
+    "trip_short_name" : "TLK 81171",
+    "direction_id" : 0,
+    "trip_headsign" : "Świnoujście - Krakow",
+    "service_id" : "noService",
+    "shape_id" : "D6786DE2-6A95-4EFE-BCA3-611951E2F871",
+    "route_id" : "78F561CA-AB05-42CE-AA84-10899933FF41",
+    "trip_id" : "3FFB596D-01C9-41BD-8BD6-AB055B1134DE"
+  },
+  {
+    "trip_short_name" : "TLK 83196\/7",
+    "direction_id" : 0,
+    "trip_headsign" : "Szczecin - Zakopane",
+    "service_id" : "noService",
+    "shape_id" : "592B6259-2956-4DA4-A9C1-FD686953CE96",
+    "route_id" : "685844DE-FD3C-4059-BFFD-06977F978129",
+    "trip_id" : "9B68A9DA-95AA-490A-BB88-FA8DB8A852EA"
+  },
+  {
+    "trip_short_name" : "TLK 38196\/7",
+    "direction_id" : 0,
+    "trip_headsign" : "Zakopane - Szczecin",
+    "service_id" : "noService",
+    "shape_id" : "DE67B322-52B5-4663-A9FC-4CA91220B598",
+    "route_id" : "685844DE-FD3C-4059-BFFD-06977F978129",
+    "trip_id" : "8CDBC3B5-F8CF-40BF-8EE4-0E4299722214"
+  },
+  {
+    "trip_short_name" : "BV 2626",
+    "direction_id" : 0,
+    "trip_headsign" : "Varna - Sofia",
+    "service_id" : "noService",
+    "shape_id" : "1490EC33-B5E7-44A0-B1A9-20B1915C8FF5",
+    "route_id" : "FE372568-71B5-4DBC-A4B0-422B3E27B5CF",
+    "trip_id" : "C9C6461C-0925-46CB-AE8F-A9D8BAD7BC05"
+  },
+  {
+    "trip_short_name" : "TLK 38192\/3",
+    "direction_id" : 0,
+    "trip_headsign" : "Przemyśl - Świnoujście",
+    "service_id" : "noService",
+    "shape_id" : "C61A7DA7-53F1-42C2-A8F8-813709321C8A",
+    "route_id" : "7060CEFE-DAA0-4DC7-AF45-74DD2BBA5F84",
+    "trip_id" : "6AE92D31-578E-46C8-8F6D-A06C18E71597"
+  },
+  {
+    "trip_short_name" : "TLK 83192\/3",
+    "direction_id" : 0,
+    "trip_headsign" : "Świnoujście - Przemyśl",
+    "service_id" : "noService",
+    "shape_id" : "F646FEAA-D1FB-4680-9504-D6F198BEC5F8",
+    "route_id" : "7060CEFE-DAA0-4DC7-AF45-74DD2BBA5F84",
+    "trip_id" : "3CF58B90-191E-4054-AE4B-5B51C6BEFE38"
+  },
+  {
+    "trip_short_name" : "D31CH",
+    "direction_id" : 0,
+    "trip_headsign" : "Moscow - Tambow",
+    "service_id" : "noService",
+    "shape_id" : "28A43931-E466-47A2-828A-4100F86EC3E1",
+    "route_id" : "CD5525BD-A9D9-4C9C-9192-47BD5081CED7",
+    "trip_id" : "205F5BE4-0AFC-4F57-9105-A30644AD2F3C"
+  },
+  {
+    "trip_short_name" : "IR 1641\/1648",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Bistrița",
+    "service_id" : "noService",
+    "shape_id" : "CD34D512-5D75-496A-878F-28488566B69D",
+    "route_id" : "87A85E26-AAA7-4B2F-AD79-F05A8B54C88B",
+    "trip_id" : "E48AC61D-F97D-4630-B0EC-E112CCDA0AE4"
+  },
+  {
+    "trip_short_name" : "IR 1649\/1644",
+    "direction_id" : 0,
+    "trip_headsign" : "Bistrița - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "C9AB5B78-5295-41BB-A368-E5C66AEF1006",
+    "route_id" : "87A85E26-AAA7-4B2F-AD79-F05A8B54C88B",
+    "trip_id" : "C9C6B3A3-F6BA-4305-87F0-73E6396E5908"
+  },
+  {
+    "trip_short_name" : "402\/106",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Chisinau",
+    "service_id" : "noService",
+    "shape_id" : "A6B35FA0-1EAF-4B5A-BA0A-216C9BC62907",
+    "route_id" : "76F13E0C-B419-4574-B976-80F6453414C4",
+    "trip_id" : "617F927B-4CE6-4350-85CA-27E19F17A88F"
+  },
+  {
+    "trip_short_name" : "105\/401",
+    "direction_id" : 0,
+    "trip_headsign" : "Chisinau - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "EB8E1DE7-86F2-46BE-A97F-2C7967C81F5E",
+    "route_id" : "76F13E0C-B419-4574-B976-80F6453414C4",
+    "trip_id" : "FADD97DA-8417-4C62-BC0F-3DC18D0DE1B3"
+  },
+  {
+    "trip_short_name" : "IR 1741",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Satu Mare",
+    "service_id" : "noService",
+    "shape_id" : "B1EA91A8-AAB4-456A-8937-23512950FA4D",
+    "route_id" : "DBAB936C-BAFF-4F12-85FB-5D487827FCB5",
+    "trip_id" : "35B0E3E7-2B78-4D1C-AE32-DE290FD86675"
+  },
+  {
+    "trip_short_name" : "IR 1742",
+    "direction_id" : 0,
+    "trip_headsign" : "Satu Mare - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "0C99FBC3-1B4D-402D-9E11-A48D063D0AC7",
+    "route_id" : "DBAB936C-BAFF-4F12-85FB-5D487827FCB5",
+    "trip_id" : "20D187A2-7553-4904-8551-EB169376E207"
+  },
+  {
+    "trip_short_name" : "NJ 421",
+    "direction_id" : 0,
+    "trip_headsign" : "Düsseldorf - Innsbruck",
+    "service_id" : "noService",
+    "shape_id" : "E5D25BF1-A791-4371-BDB0-F911D7E4F059",
+    "route_id" : "232D14AE-BA26-4DD2-A90F-73D535E92C51",
+    "trip_id" : "C4D6740D-6CFE-43CF-9BAE-7D7B8D062AD6"
+  },
+  {
+    "trip_short_name" : "NJ 420",
+    "direction_id" : 0,
+    "trip_headsign" : "Innsbruck - Düsseldorf",
+    "service_id" : "noService",
+    "shape_id" : "CD1FBF2D-2CCE-4F86-98BF-1B49002B266B",
+    "route_id" : "232D14AE-BA26-4DD2-A90F-73D535E92C51",
+    "trip_id" : "892F74D8-FA1A-4CC1-95ED-74ACAB4F7445"
+  },
+  {
+    "trip_short_name" : "B340",
+    "direction_id" : 0,
+    "trip_headsign" : "Belgrade - Budapest",
+    "service_id" : "noService",
+    "shape_id" : "C8089793-BD5F-4306-AF4F-B08926051151",
+    "route_id" : "9E519C37-D15A-4114-A480-0464221ED078",
+    "trip_id" : "85F70969-DDDF-4438-8391-04B899333678"
+  },
+  {
+    "trip_short_name" : "G 341",
+    "direction_id" : 0,
+    "trip_headsign" : "Budapest - Belgrade",
+    "service_id" : "noService",
+    "shape_id" : "4F7E6C3B-E148-4D8D-9E83-81C980767FEA",
+    "route_id" : "9E519C37-D15A-4114-A480-0464221ED078",
+    "trip_id" : "893BC3DB-1C24-4C7A-83E8-202071E24529"
+  },
+  {
+    "trip_short_name" : "020",
+    "direction_id" : 0,
+    "trip_headsign" : "Moscow - Beijing",
+    "service_id" : "noService",
+    "shape_id" : "8265A447-C76E-42EF-B4FB-FBEF746B6DBD",
+    "route_id" : "2F2F8E8A-A1C2-48CD-B7D4-F30CA1854CCD",
+    "trip_id" : "D9369F57-E662-4A30-9CAB-04BBD4BB7CE7"
+  },
+  {
+    "trip_short_name" : "R 17614",
+    "direction_id" : 0,
+    "trip_headsign" : "Humenné - Bratislava",
+    "service_id" : "noService",
+    "shape_id" : "0CB762BC-D6B1-423B-AF37-DE27E0231983",
+    "route_id" : "BB9F6096-1F69-41F4-B06D-419C6293DCFD",
+    "trip_id" : "F0777AFF-4BD6-4E7E-BE68-5BE9BEFBE286"
+  },
+  {
+    "trip_short_name" : "IR 5482\/1754",
+    "direction_id" : 0,
+    "trip_headsign" : "Bicaz - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "C135587F-1FEF-44FD-83BC-F7AE5F1D5828",
+    "route_id" : "8C976609-C4E2-4CAD-85E2-998CA563BD9E",
+    "trip_id" : "EBD0DE22-F0D9-4A99-BA44-23191C106E0E"
+  },
+  {
+    "trip_short_name" : "ICN 3750",
+    "direction_id" : 0,
+    "trip_headsign" : "Toulouse - Paris",
+    "service_id" : "noService",
+    "shape_id" : "81B8C624-5805-45BE-9135-E003E6419A70",
+    "route_id" : "AFDF2671-91FA-42E6-A91E-792CF3D0DBD3",
+    "trip_id" : "DE61A444-D9A1-4E54-B7D6-95758F6C8E81"
+  },
+  {
+    "trip_short_name" : "EN 346",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Vienna",
+    "service_id" : "noService",
+    "shape_id" : "5705B6BF-9222-4446-96AC-9D16FF091434",
+    "route_id" : "996D5230-1D4B-436B-AA53-8A02819FF332",
+    "trip_id" : "E803374D-E91F-46C3-921A-033DB86BF081"
+  },
+  {
+    "trip_short_name" : "EN 347",
+    "direction_id" : 0,
+    "trip_headsign" : "Vienna - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "B3FD321C-A3C9-411A-A4D6-5724EFAECC58",
+    "route_id" : "996D5230-1D4B-436B-AA53-8A02819FF332",
+    "trip_id" : "D2A19FB0-7948-467E-9448-FFE19EF99F4B"
+  },
+  {
+    "trip_short_name" : "P 262",
+    "direction_id" : 0,
+    "trip_headsign" : "Kolari - Helsinki",
+    "service_id" : "noService",
+    "shape_id" : "04C39192-8631-45BB-B9DD-7D3A0BF0016C",
+    "route_id" : "9AEF63D1-A7C0-40A1-9111-0DB44CC84962",
+    "trip_id" : "A8BFC0DE-ACFE-43C9-BB58-CF8CDEA958D5"
+  },
+  {
+    "trip_short_name" : "EN 40457",
+    "direction_id" : 0,
+    "trip_headsign" : "Berlin - Budapest",
+    "service_id" : "noService",
+    "shape_id" : "1874E871-2AAD-4B61-A84F-E7AFFC2FD3F8",
+    "route_id" : "BC6FE1B0-617B-4D1E-A669-EBB5440738A8",
+    "trip_id" : "898E4B39-3661-4B8B-8E0B-7EC89FE597DD"
+  },
+  {
+    "trip_short_name" : "EN 40476",
+    "direction_id" : 0,
+    "trip_headsign" : "Budapest - Berlin",
+    "service_id" : "noService",
+    "shape_id" : "1953D0D7-89DB-4B61-BE26-7AAEA769B28E",
+    "route_id" : "BC6FE1B0-617B-4D1E-A669-EBB5440738A8",
+    "trip_id" : "CF4F48C8-5F10-4813-A152-964D3672107B"
+  },
+  {
+    "trip_short_name" : "IC 1131",
+    "direction_id" : 0,
+    "trip_headsign" : "Hamburg - Copenhagen",
+    "service_id" : "noService",
+    "shape_id" : "57BAE90E-5EEA-477B-B76B-040D3D7B6DE7",
+    "route_id" : "B658AA14-8C5F-4FFB-BC3A-10BCEA2B0CA3",
+    "trip_id" : "02E5FB53-4151-49B3-91DE-1C65B322A037"
+  },
+  {
+    "trip_short_name" : "ICN 1959",
+    "direction_id" : 0,
+    "trip_headsign" : "Rome - Syracuse",
+    "service_id" : "noService",
+    "shape_id" : "EE3A02BC-00B6-41A7-9081-5AD3FF6E3980",
+    "route_id" : "7970E4B6-0BA4-4009-A172-9AFD67CE02BA",
+    "trip_id" : "A2ECEA4A-389A-493D-AE02-F807D463B493"
+  },
+  {
+    "trip_short_name" : "ICN 1960",
+    "direction_id" : 0,
+    "trip_headsign" : "Syracuse - Rome",
+    "service_id" : "noService",
+    "shape_id" : "83F07426-6D6D-4EE3-B096-0725BAE840EA",
+    "route_id" : "7970E4B6-0BA4-4009-A172-9AFD67CE02BA",
+    "trip_id" : "8B6AD467-F2CA-4048-BE32-602E357E1C66"
+  },
+  {
+    "trip_short_name" : "TH9",
+    "direction_id" : 0,
+    "trip_headsign" : "Bangkok - Chiang Mai",
+    "service_id" : "noService",
+    "shape_id" : "E95CB0CD-AEE4-4BEC-8177-12E066D693C1",
+    "route_id" : "7BFB4BE1-C4AE-4669-B8DF-78E5C88DAC88",
+    "trip_id" : "7E613944-9B12-4BCA-A13A-048A2BA98F11"
+  },
+  {
+    "trip_short_name" : "NJ 235",
+    "direction_id" : 0,
+    "trip_headsign" : "Milan - Vienna",
+    "service_id" : "noService",
+    "shape_id" : "35663A8E-538A-47DD-9EA1-37414863304D",
+    "route_id" : "E120D1CA-E9F3-4FA0-AFA9-7C89ED4CC6CC",
+    "trip_id" : "C7FA8BC6-6491-471A-B200-D9397626CB3B"
+  },
+  {
+    "trip_short_name" : "NJ 233",
+    "direction_id" : 0,
+    "trip_headsign" : "Vienna - Milan",
+    "service_id" : "noService",
+    "shape_id" : "F31105EF-0B8A-49E4-99F7-D05054ACB4EC",
+    "route_id" : "E120D1CA-E9F3-4FA0-AFA9-7C89ED4CC6CC",
+    "trip_id" : "0D29027C-7124-49F2-8C92-D65D781B851A"
+  },
+  {
+    "trip_short_name" : "ICN5790\/92",
+    "direction_id" : 0,
+    "trip_headsign" : "Briançon - Paris",
+    "service_id" : "noService",
+    "shape_id" : "5D612BAE-23E1-455C-812E-87032363A6CC",
+    "route_id" : "B1358A1E-9CB9-4B81-A738-C44513F4C489",
+    "trip_id" : "72C48C04-F867-4012-B129-C854DA4CA762"
+  },
+  {
+    "trip_short_name" : "ICN 5789\/93",
+    "direction_id" : 0,
+    "trip_headsign" : "Paris - Briançon",
+    "service_id" : "noService",
+    "shape_id" : "C4B4622B-1F55-4F9C-97DD-C5E6E825BB7B",
+    "route_id" : "B1358A1E-9CB9-4B81-A738-C44513F4C489",
+    "trip_id" : "87B99BCC-A285-4094-8F88-7967AFEE6136"
+  },
+  {
+    "trip_short_name" : "ICN 3751",
+    "direction_id" : 0,
+    "trip_headsign" : "Paris - Toulouse",
+    "service_id" : "noService",
+    "shape_id" : "0CF01EC9-8A49-444D-AA29-C5A34B5CB893",
+    "route_id" : "37A3E0F4-2BDD-49E7-85E6-DDB82E06387A",
+    "trip_id" : "5500EFE3-0FFA-458E-9024-9BB5B2887916"
+  },
+  {
+    "trip_short_name" : "B1136",
+    "direction_id" : 0,
+    "trip_headsign" : "Bar - Subotica",
+    "service_id" : "noService",
+    "shape_id" : "4DAB21E0-0B71-41A3-A3C0-BDA5471DE163",
+    "route_id" : "36E2EE75-CF09-4900-8A93-64A4D6B0EF23",
+    "trip_id" : "FF35F701-E177-474B-9FF2-F978CF288568"
+  },
+  {
+    "trip_short_name" : "B1137",
+    "direction_id" : 0,
+    "trip_headsign" : "Subotica - Bar",
+    "service_id" : "noService",
+    "shape_id" : "A7EEDBF9-F719-4E8C-BBDB-3B9EC0361541",
+    "route_id" : "36E2EE75-CF09-4900-8A93-64A4D6B0EF23",
+    "trip_id" : "A0F21734-3CE6-4D0A-9549-D664D4CC6233"
+  },
+  {
+    "trip_short_name" : "B432",
+    "direction_id" : 0,
+    "trip_headsign" : "Bar - Belgrade",
+    "service_id" : "noService",
+    "shape_id" : "DD0CB860-5026-4165-B4D3-A8C2A4E37F8B",
+    "route_id" : "3606810C-EF19-4DE0-A639-84C2213CCAE5",
+    "trip_id" : "E7B05D11-5CC0-4469-9D39-E639CF8AE871"
+  },
+  {
+    "trip_short_name" : "B433",
+    "direction_id" : 0,
+    "trip_headsign" : "Belgrade - Bar",
+    "service_id" : "noService",
+    "shape_id" : "DEB5AA94-3D78-422E-8279-58D148EA7F44",
+    "route_id" : "3606810C-EF19-4DE0-A639-84C2213CCAE5",
+    "trip_id" : "D242CA17-55CB-431B-B145-3FB2D70D4891"
+  },
+  {
+    "trip_short_name" : "R 615",
+    "direction_id" : 0,
+    "trip_headsign" : "Bratislava - Humenné",
+    "service_id" : "noService",
+    "shape_id" : "392F6CA5-F67F-4AE2-B782-38F61FD69D9F",
+    "route_id" : "CA3298DB-4EFC-4FDC-B7A5-8F8575810CBC",
+    "trip_id" : "7A88697F-DE15-488B-AACC-7A4401112FA0"
+  },
+  {
+    "trip_short_name" : "R 614",
+    "direction_id" : 0,
+    "trip_headsign" : "Humenné - Bratislava",
+    "service_id" : "noService",
+    "shape_id" : "CCC41874-D7D2-4AE9-83B5-B24DBC62DEE5",
+    "route_id" : "CA3298DB-4EFC-4FDC-B7A5-8F8575810CBC",
+    "trip_id" : "1D2E9F1E-0CF5-4113-94B3-CA2BCCD12494"
+  },
+  {
+    "trip_short_name" : "ICN 1580",
+    "direction_id" : 0,
+    "trip_headsign" : "Lecce - Turin",
+    "service_id" : "noService",
+    "shape_id" : "484EAD5F-8B2D-4CD4-AB23-B412D703998C",
+    "route_id" : "AA004E84-B7FF-4892-B306-30EB615EC9E0",
+    "trip_id" : "268A763B-E609-47D3-8BE3-C4474CEF7E45"
+  },
+  {
+    "trip_short_name" : "ICN 3757",
+    "direction_id" : 0,
+    "trip_headsign" : "Paris - Albi",
+    "service_id" : "noService",
+    "shape_id" : "CD7773CF-879E-461D-999E-54DEB2B1E50C",
+    "route_id" : "BB4E8A88-F814-4004-9860-1D818637EC2F",
+    "trip_id" : "EEEFA0E4-1C05-4596-B9E6-B887FA5E32BD"
+  },
+  {
+    "trip_short_name" : "ICN 3756",
+    "direction_id" : 0,
+    "trip_headsign" : "Albi - Paris",
+    "service_id" : "noService",
+    "shape_id" : "CADC3D5B-1BE4-4866-94BB-051FB7ADCD76",
+    "route_id" : "BB4E8A88-F814-4004-9860-1D818637EC2F",
+    "trip_id" : "577666F6-B03C-4E20-AFF9-2C1D30582BDD"
+  },
+  {
+    "trip_short_name" : "380\/118",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Kiev",
+    "service_id" : "noService",
+    "shape_id" : "2E6B3E0E-3891-443D-951A-148AE1B69F8A",
+    "route_id" : "5515D6C8-9081-44CF-A4AC-C0E7CFFFFFD1",
+    "trip_id" : "6BD564DE-81AD-4B99-BC83-DF54AA06787D"
+  },
+  {
+    "trip_short_name" : "117\/381",
+    "direction_id" : 0,
+    "trip_headsign" : "Kiev - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "0447B54A-621A-449D-96F4-0213B9587F68",
+    "route_id" : "5515D6C8-9081-44CF-A4AC-C0E7CFFFFFD1",
+    "trip_id" : "6C803910-EB6D-4BA7-8586-33CFCFEADBDD"
+  },
+  {
+    "trip_short_name" : "ICN 1954",
+    "direction_id" : 0,
+    "trip_headsign" : "Palermo - Rome",
+    "service_id" : "noService",
+    "shape_id" : "AFE0091B-079A-4E9E-A70A-A4E97C158C61",
+    "route_id" : "9CAF2569-D820-459B-9DFA-F32F6B710F16",
+    "trip_id" : "EB67B4AC-19E0-4B22-AF8B-51C9A6D530B0"
+  },
+  {
+    "trip_short_name" : "ICN 1955",
+    "direction_id" : 0,
+    "trip_headsign" : "Rome - Palermo",
+    "service_id" : "noService",
+    "shape_id" : "F2E716E9-AE15-4F82-953E-B0C5C12B514B",
+    "route_id" : "9CAF2569-D820-459B-9DFA-F32F6B710F16",
+    "trip_id" : "FA7F2366-2C2A-40F5-8B46-773FD824CDA2"
+  },
+  {
+    "trip_short_name" : "ICN 797",
+    "direction_id" : 0,
+    "trip_headsign" : "Turin - Salerno",
+    "service_id" : "noService",
+    "shape_id" : "A7A0CF43-3964-4B8C-BE8A-0433178EB8C4",
+    "route_id" : "EB0B125E-4500-449A-A197-29EC5C0D7251",
+    "trip_id" : "730DC5F6-B0E3-448E-AB4D-D575D20DE062"
+  },
+  {
+    "trip_short_name" : "ICN 796",
+    "direction_id" : 0,
+    "trip_headsign" : "Salerno - Turin",
+    "service_id" : "noService",
+    "shape_id" : "B8EA6D91-9F06-42CA-9BA2-1CE9761C1E16",
+    "route_id" : "EB0B125E-4500-449A-A197-29EC5C0D7251",
+    "trip_id" : "AF720832-390D-4751-9696-4EC0EB08DF38"
+  },
+  {
+    "trip_short_name" : "D 315\/411",
+    "direction_id" : 0,
+    "trip_headsign" : "Villach - Belgrade",
+    "service_id" : "noService",
+    "shape_id" : "FDEF85E2-6EDE-40C8-AE93-BDD08424F143",
+    "route_id" : "CE8AF250-6C97-4F91-9312-45AE3108A697",
+    "trip_id" : "69278E18-956A-472E-8CAD-564D9452A840"
+  },
+  {
+    "trip_short_name" : "B 410\/314",
+    "direction_id" : 0,
+    "trip_headsign" : "Belgrade - Villach",
+    "service_id" : "noService",
+    "shape_id" : "B706D015-6030-41E9-8DF1-E2C7E121FE01",
+    "route_id" : "CE8AF250-6C97-4F91-9312-45AE3108A697",
+    "trip_id" : "1F8C4E41-9416-48EF-8D84-6B8497905834"
+  },
+  {
+    "trip_short_name" : "ICN 794",
+    "direction_id" : 0,
+    "trip_headsign" : "Reggio di Calabria - Turin",
+    "service_id" : "noService",
+    "shape_id" : "C7D38EC7-B1E5-4E5D-9129-95F715962A91",
+    "route_id" : "A5491435-898D-4972-B691-5747B61AF6BE",
+    "trip_id" : "15014C78-BD1A-4770-875A-6C41A9E26396"
+  },
+  {
+    "trip_short_name" : "ICN 795",
+    "direction_id" : 0,
+    "trip_headsign" : "Turin - Reggio di Calabria",
+    "service_id" : "noService",
+    "shape_id" : "51F2A13C-EAA4-42FD-B62C-424C0D83C664",
+    "route_id" : "A5491435-898D-4972-B691-5747B61AF6BE",
+    "trip_id" : "5E8B1D65-F825-443D-A83B-5B8016209FD9"
+  },
+  {
+    "trip_short_name" : "IC 188",
+    "direction_id" : 0,
+    "trip_headsign" : "Aalborg - Kastrup",
+    "service_id" : "noService",
+    "shape_id" : "397A3E94-2F15-43DB-8D43-7AE775955936",
+    "route_id" : "A912FA14-85EE-405A-B79E-6D075F726D80",
+    "trip_id" : "A568ED52-2D5C-4802-8206-1AEA26408002"
+  },
+  {
+    "trip_short_name" : "ICN 3981",
+    "direction_id" : 0,
+    "trip_headsign" : "Paris - Latour-de-Carol",
+    "service_id" : "noService",
+    "shape_id" : "DF60EC53-5EDE-4724-BD4E-47B34534F6C2",
+    "route_id" : "7B9FD63E-90DB-4D10-8C20-0BA4E3870749",
+    "trip_id" : "5B5A1F6B-4E27-41E9-83D7-C8FD41DBA7D1"
+  },
+  {
+    "trip_short_name" : "NT 94",
+    "direction_id" : 0,
+    "trip_headsign" : "Stockholm - Luleå",
+    "service_id" : "noService",
+    "shape_id" : "BB6BF5B1-09AC-45E4-B100-1D63FE1466BF",
+    "route_id" : "7DC69E9F-6330-466C-8203-1B376C5FB85F",
+    "trip_id" : "1EA16701-09CC-4980-A3CB-C4D8CCA6A37C"
+  },
+  {
+    "trip_short_name" : "EN 300",
+    "direction_id" : 0,
+    "trip_headsign" : "Berlin - Malmö",
+    "service_id" : "noService",
+    "shape_id" : "C6BCEAEC-2EEF-44FE-A51F-783B9A26EC7F",
+    "route_id" : "1AC97908-537F-4370-96A2-244D0F172C98",
+    "trip_id" : "6467C5C1-2B80-4B49-90B1-6415AB6A4211"
+  },
+  {
+    "trip_short_name" : "EN 301",
+    "direction_id" : 0,
+    "trip_headsign" : "Malmö - Berlin",
+    "service_id" : "noService",
+    "shape_id" : "2DE7D943-171C-4FA2-8242-C074DAE39F80",
+    "route_id" : "1AC97908-537F-4370-96A2-244D0F172C98",
+    "trip_id" : "DE797302-0203-4A22-B82E-146E78A048D6"
+  },
+  {
+    "trip_short_name" : "NT 91",
+    "direction_id" : 0,
+    "trip_headsign" : "Luleå - Stockholm",
+    "service_id" : "noService",
+    "shape_id" : "DDA61AE2-F803-4A4B-A063-22492A19BD2A",
+    "route_id" : "F3F121EF-BC90-4F54-AA36-552DD18491D2",
+    "trip_id" : "F788C813-95DF-46CF-9B12-C08BAD236A33"
+  },
+  {
+    "trip_short_name" : "NT 92",
+    "direction_id" : 0,
+    "trip_headsign" : "Stockholm - Luleå",
+    "service_id" : "noService",
+    "shape_id" : "F0590B5B-2EF3-44BA-B3C3-0D0BFDF6E079",
+    "route_id" : "F3F121EF-BC90-4F54-AA36-552DD18491D2",
+    "trip_id" : "09973FE3-2F45-4378-B344-D878373064AA"
+  },
+  {
+    "trip_short_name" : "ICN 798",
+    "direction_id" : 0,
+    "trip_headsign" : "Salerno - Turin",
+    "service_id" : "noService",
+    "shape_id" : "F0AD1292-8A07-4A35-BE74-F7F9F06D5389",
+    "route_id" : "5CDA7307-06EF-4916-93E5-BE27DE94893E",
+    "trip_id" : "AE11B10B-2EDE-4BEC-8F50-59D595D0F91C"
+  },
+  {
+    "trip_short_name" : "ICN 799",
+    "direction_id" : 0,
+    "trip_headsign" : "Turin - Salerno",
+    "service_id" : "noService",
+    "shape_id" : "492C645E-26A2-4ED3-996B-65CD560E37C9",
+    "route_id" : "5CDA7307-06EF-4916-93E5-BE27DE94893E",
+    "trip_id" : "60420878-A100-4768-ADCA-6E38C5AEAEAF"
+  },
+  {
+    "trip_short_name" : "TLK 66116",
+    "direction_id" : 0,
+    "trip_headsign" : "Szklarska Poręba - Warsaw",
+    "service_id" : "noService",
+    "shape_id" : "210FA4E9-0669-4CDC-A53E-EB0B1492BE0A",
+    "route_id" : "1042F1FE-6297-4B50-8D1F-D39CAA6FA34A",
+    "trip_id" : "17B0E242-D6EC-4B37-B31E-A4FA31F87387"
+  },
+  {
+    "trip_short_name" : "TLK 18171",
+    "direction_id" : 0,
+    "trip_headsign" : "Warsaw - Szklarska Poręba",
+    "service_id" : "noService",
+    "shape_id" : "4D628435-3BA0-4EE1-B16D-933B11907DAB",
+    "route_id" : "1042F1FE-6297-4B50-8D1F-D39CAA6FA34A",
+    "trip_id" : "457A57FA-8062-46FB-8491-9289EBCD8F91"
+  },
+  {
+    "trip_short_name" : "BV 2636\/3636",
+    "direction_id" : 0,
+    "trip_headsign" : "Dobrich - Sofia",
+    "service_id" : "noService",
+    "shape_id" : "818C1929-8D22-4A01-A6DA-E12FDC46DED8",
+    "route_id" : "23D06117-E17E-41AC-A614-AF89944BBA5F",
+    "trip_id" : "1E8C0516-CE89-430E-9840-19A4ECD8E4D3"
+  },
+  {
+    "trip_short_name" : "BV 3637\/2637",
+    "direction_id" : 0,
+    "trip_headsign" : "Sofia - Dobrich",
+    "service_id" : "noService",
+    "shape_id" : "47330695-D197-46D4-B43D-D5E6E8ECBC42",
+    "route_id" : "23D06117-E17E-41AC-A614-AF89944BBA5F",
+    "trip_id" : "9B1391FA-FD17-42FA-8B1A-4CDBA1827C7D"
+  },
+  {
+    "trip_short_name" : "NJ 40294",
+    "direction_id" : 0,
+    "trip_headsign" : "Rome - Vienna",
+    "service_id" : "noService",
+    "shape_id" : "EEDB1308-B4CF-46F2-A5CC-B28AAEA7D85D",
+    "route_id" : "342B9A59-32E5-4988-8C02-1371D3C30E38",
+    "trip_id" : "FA565A4A-96BB-4E35-ACEF-EFBDF94BAD70"
+  },
+  {
+    "trip_short_name" : "NJ 40233",
+    "direction_id" : 0,
+    "trip_headsign" : "Vienna - Rome",
+    "service_id" : "noService",
+    "shape_id" : "D2AE3C98-129F-40E5-8551-E688618E298D",
+    "route_id" : "342B9A59-32E5-4988-8C02-1371D3C30E38",
+    "trip_id" : "5816F2DD-B50C-452B-9442-DE9E1EA31348"
+  },
+  {
+    "trip_short_name" : "EN 472",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Budapest",
+    "service_id" : "noService",
+    "shape_id" : "E24E083F-2A5B-47FF-AEB1-137FEFBD1800",
+    "route_id" : "79183AF0-30C8-4D2B-9B82-0D9E7913561D",
+    "trip_id" : "4732974E-C0BF-4BC9-B9C7-0A609D80591D"
+  },
+  {
+    "trip_short_name" : "EN 473",
+    "direction_id" : 0,
+    "trip_headsign" : "Budapest - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "72CD1142-3C9B-4F20-990D-D5CDBF03C829",
+    "route_id" : "79183AF0-30C8-4D2B-9B82-0D9E7913561D",
+    "trip_id" : "85682E18-E196-4431-A35C-31B923B9F438"
+  },
+  {
+    "trip_short_name" : "ICN 752",
+    "direction_id" : 0,
+    "trip_headsign" : "Lecce - Milan",
+    "service_id" : "noService",
+    "shape_id" : "C4E95001-60D1-4DB3-8A5A-F37E0F3859EB",
+    "route_id" : "9BC25BB5-193E-45B4-9059-A23FBE9BEBF3",
+    "trip_id" : "1D604886-724D-4B5C-A75A-06642CC140DD"
+  },
+  {
+    "trip_short_name" : "ICN 755",
+    "direction_id" : 0,
+    "trip_headsign" : "Milan - Lecce",
+    "service_id" : "noService",
+    "shape_id" : "A8EEF884-29C0-457C-86C4-8FA9BCEFBA78",
+    "route_id" : "9BC25BB5-193E-45B4-9059-A23FBE9BEBF3",
+    "trip_id" : "C8EE2911-ABCF-4F30-B4D9-5AAC5E8D8B15"
+  },
+  {
+    "trip_short_name" : "D 67",
+    "direction_id" : 0,
+    "trip_headsign" : "Kiev - Warsaw",
+    "service_id" : "noService",
+    "shape_id" : "05748F12-EAD0-4934-8E46-E5B79C328207",
+    "route_id" : "465ED0BE-26D2-4E9C-8F38-DD083B252A3F",
+    "trip_id" : "BF9F5894-EB53-4361-80A3-B3C791DACBB9"
+  },
+  {
+    "trip_short_name" : "D 68",
+    "direction_id" : 0,
+    "trip_headsign" : "Warsaw - Kiev",
+    "service_id" : "noService",
+    "shape_id" : "EEFF6A4D-CC7A-4277-9762-E5B30C8939BB",
+    "route_id" : "465ED0BE-26D2-4E9C-8F38-DD083B252A3F",
+    "trip_id" : "BAFB98E4-7EC3-4B87-B003-52A0BD5D67B2"
+  },
+  {
+    "trip_short_name" : "ICN 763",
+    "direction_id" : 0,
+    "trip_headsign" : "Bolzano - Rome",
+    "service_id" : "noService",
+    "shape_id" : "445D850D-2799-4722-9CA9-E8D125608E70",
+    "route_id" : "3233D52E-B7BA-44F2-8533-5E754B9FE4A2",
+    "trip_id" : "38FE9A57-AEBE-4ECA-934B-873DEF4B734F"
+  },
+  {
+    "trip_short_name" : "ICN 764",
+    "direction_id" : 0,
+    "trip_headsign" : "Rome - Bolzano",
+    "service_id" : "noService",
+    "shape_id" : "44E1B026-E471-45EA-9307-3780880AC49A",
+    "route_id" : "3233D52E-B7BA-44F2-8533-5E754B9FE4A2",
+    "trip_id" : "A89DB335-B302-42BF-B6B8-2E77CD636920"
+  },
+  {
+    "trip_short_name" : "NT 72\/92",
+    "direction_id" : 0,
+    "trip_headsign" : "Gothenburg - Luleå",
+    "service_id" : "noService",
+    "shape_id" : "078D8DD6-C8F8-4A62-B69C-486D915035DC",
+    "route_id" : "AF05972C-F7A7-440F-8001-B5721653665F",
+    "trip_id" : "1D1E13ED-6028-4F6B-8FCE-2F4513199925"
+  },
+  {
+    "trip_short_name" : "NT 91\/71",
+    "direction_id" : 0,
+    "trip_headsign" : "Luleå - Gothenburg",
+    "service_id" : "noService",
+    "shape_id" : "8DDC2B07-D436-47BB-9D53-D371F43648D8",
+    "route_id" : "AF05972C-F7A7-440F-8001-B5721653665F",
+    "trip_id" : "FC1FDC32-E538-4AB1-80C4-ED5E9631BD2C"
+  },
+  {
+    "trip_short_name" : "IC 2020",
+    "direction_id" : 0,
+    "trip_headsign" : "Frankfurt am Main - Hamburg",
+    "service_id" : "noService",
+    "shape_id" : "E72DC258-BF1D-48F6-B3B4-79743C002352",
+    "route_id" : "48871698-09EA-43B3-A7EC-A66E06F26A7B",
+    "trip_id" : "5AFBAB6E-C3CE-43D9-AE53-638552DE009C"
+  },
+  {
+    "trip_short_name" : "IC 2021",
+    "direction_id" : 0,
+    "trip_headsign" : "Hamburg - Frankfurt am Main",
+    "service_id" : "noService",
+    "shape_id" : "E067C670-2203-42FF-A633-0F59C8D73A42",
+    "route_id" : "48871698-09EA-43B3-A7EC-A66E06F26A7B",
+    "trip_id" : "5830ACB1-AF0C-4C6B-B732-0490D6BD85FC"
+  },
+  {
+    "trip_short_name" : "MV1604\/1247",
+    "direction_id" : 0,
+    "trip_headsign" : "Koper - Budapest",
+    "service_id" : "noService",
+    "shape_id" : "99A7888F-607E-4396-9193-1396287F7641",
+    "route_id" : "41C2BD5A-675C-48D5-A4B6-CC51E449C0CF",
+    "trip_id" : "E97747C9-42BE-4BDF-88B6-C01D410F5D6A"
+  },
+  {
+    "trip_short_name" : "G1246\/1605",
+    "direction_id" : 0,
+    "trip_headsign" : "Budapest - Koper",
+    "service_id" : "noService",
+    "shape_id" : "C4304159-B00B-4EB6-9882-88436612745A",
+    "route_id" : "41C2BD5A-675C-48D5-A4B6-CC51E449C0CF",
+    "trip_id" : "0C0DBC6D-B609-417B-B839-FAE692A0B38D"
+  },
+  {
+    "trip_short_name" : "NT 3962\/93",
+    "direction_id" : 0,
+    "trip_headsign" : "Luleå - Stockholm",
+    "service_id" : "noService",
+    "shape_id" : "ACF07383-BBF0-4ADE-932E-ABDD7EDE6182",
+    "route_id" : "05A0D032-D30B-4D92-8B91-199C077D120B",
+    "trip_id" : "81797EC0-1A96-4615-9719-36AB0496C3BD"
+  },
+  {
+    "trip_short_name" : "IR 4136\/1765",
+    "direction_id" : 0,
+    "trip_headsign" : "Sighetu Marmației - Timișoara",
+    "service_id" : "noService",
+    "shape_id" : "8934D201-65EF-48FA-AEE7-2B9ACC1E663C",
+    "route_id" : "C961A29F-8311-40F5-BFBD-000475950D23",
+    "trip_id" : "92CB5E1B-1192-465B-B71E-84DF193A8C30"
+  },
+  {
+    "trip_short_name" : "IR 1843\/4135",
+    "direction_id" : 0,
+    "trip_headsign" : "Timișoara - Sighetu Marmației",
+    "service_id" : "noService",
+    "shape_id" : "FA3617DF-54FD-45BF-9871-5789E4CC7C6D",
+    "route_id" : "C961A29F-8311-40F5-BFBD-000475950D23",
+    "trip_id" : "0F2D07F1-35E6-4C55-B4D5-DC48E80EB6F8"
+  },
+  {
+    "trip_short_name" : "NJ 247",
+    "direction_id" : 0,
+    "trip_headsign" : "Bregenz - Vienna",
+    "service_id" : "noService",
+    "shape_id" : "BD90FE01-D7ED-49ED-8504-94FE19E2E315",
+    "route_id" : "7C0AA14C-D451-4FBE-8084-13DF3A596D60",
+    "trip_id" : "25C61C99-5E47-4069-AE19-C4D809E73EB3"
+  },
+  {
+    "trip_short_name" : "NJ 246",
+    "direction_id" : 0,
+    "trip_headsign" : "Vienna - Bregenz",
+    "service_id" : "noService",
+    "shape_id" : "6FB8BF65-DA00-4AC0-A406-611144D65B11",
+    "route_id" : "7C0AA14C-D451-4FBE-8084-13DF3A596D60",
+    "trip_id" : "96EB113B-98EC-4FEA-B79B-9F46D82E57D9"
+  },
+  {
+    "trip_short_name" : "CAL",
+    "direction_id" : 0,
+    "trip_headsign" : "Aberdeen - London",
+    "service_id" : "noService",
+    "shape_id" : "623BA36E-ADC0-4481-901F-D81C3AD62351",
+    "route_id" : "AA2E5A06-97F6-4CDA-996B-9E6AD2F95F79",
+    "trip_id" : "101B4686-E4A6-43BC-BD70-F784905A8E2A"
+  },
+  {
+    "trip_short_name" : "CAL",
+    "direction_id" : 0,
+    "trip_headsign" : "Fort William - London",
+    "service_id" : "noService",
+    "shape_id" : "96A039B5-3305-45A4-827D-0654C6ED8DF9",
+    "route_id" : "AA2E5A06-97F6-4CDA-996B-9E6AD2F95F79",
+    "trip_id" : "AB6A848E-C2A3-4CB7-814F-D3917856DBDC"
+  },
+  {
+    "trip_short_name" : "CAL",
+    "direction_id" : 0,
+    "trip_headsign" : "London - Aberdeen",
+    "service_id" : "noService",
+    "shape_id" : "8CD30836-57AB-4FDC-B9EF-8ED543411B7F",
+    "route_id" : "AA2E5A06-97F6-4CDA-996B-9E6AD2F95F79",
+    "trip_id" : "33EB9516-C30A-4BF4-A031-E54343EEFD35"
+  },
+  {
+    "trip_short_name" : "CAL",
+    "direction_id" : 0,
+    "trip_headsign" : "Inverness - London",
+    "service_id" : "noService",
+    "shape_id" : "462CB13C-E74B-40CA-9E36-D318E037F4C0",
+    "route_id" : "AA2E5A06-97F6-4CDA-996B-9E6AD2F95F79",
+    "trip_id" : "71F81828-0589-4CDB-A103-AFA8B9BB2094"
+  },
+  {
+    "trip_short_name" : "CAL",
+    "direction_id" : 0,
+    "trip_headsign" : "London - Fort William",
+    "service_id" : "noService",
+    "shape_id" : "7D77E626-328A-4CB9-BD91-818A0CCCCBB1",
+    "route_id" : "AA2E5A06-97F6-4CDA-996B-9E6AD2F95F79",
+    "trip_id" : "0FF78F74-C91C-4ED0-82F8-351BD667308F"
+  },
+  {
+    "trip_short_name" : "CAL",
+    "direction_id" : 0,
+    "trip_headsign" : "London - Inverness",
+    "service_id" : "noService",
+    "shape_id" : "CCD73660-082E-4E4B-A2ED-D4C7A1ADDD35",
+    "route_id" : "AA2E5A06-97F6-4CDA-996B-9E6AD2F95F79",
+    "trip_id" : "B6F4FCA0-77B7-4915-B3DF-77A8E8CB9480"
+  },
+  {
+    "trip_short_name" : "RT 476",
+    "direction_id" : 0,
+    "trip_headsign" : "Bodø - Trondheim",
+    "service_id" : "noService",
+    "shape_id" : "8290A82E-CD86-46AF-8935-3D447C9F1813",
+    "route_id" : "78E82777-54BB-4D42-A1C7-EADCE6076573",
+    "trip_id" : "7A629AE5-5AE6-4ADF-B613-9EFA26E119AF"
+  },
+  {
+    "trip_short_name" : "RT 475",
+    "direction_id" : 0,
+    "trip_headsign" : "Trondheim - Bodø",
+    "service_id" : "noService",
+    "shape_id" : "828D4C2A-5CCF-450E-8600-F343EF73AB08",
+    "route_id" : "78E82777-54BB-4D42-A1C7-EADCE6076573",
+    "trip_id" : "27E3F644-4DF0-4260-B14E-89D2C184B930"
+  },
+  {
+    "trip_short_name" : "ICN 3980",
+    "direction_id" : 0,
+    "trip_headsign" : "Latour-de-Carol - Paris",
+    "service_id" : "noService",
+    "shape_id" : "E078B3D0-0727-412F-84F3-D8CB92893D6B",
+    "route_id" : "B534DD80-4569-4263-8EA8-52C930E3C170",
+    "trip_id" : "A62BABFE-283A-44FA-A3A6-229112BAAAF6"
+  },
+  {
+    "trip_short_name" : "TLK 83170\/1",
+    "direction_id" : 0,
+    "trip_headsign" : "Kołobrzeg - Przemyśl",
+    "service_id" : "noService",
+    "shape_id" : "68BAEDCD-8E6F-493C-8BA3-066C97CC9584",
+    "route_id" : "21334A6D-44DD-479B-B626-2310E6AAE5B2",
+    "trip_id" : "626BF409-9924-44F5-8A5F-BDF984CC8679"
+  },
+  {
+    "trip_short_name" : "TLK 38170\/1",
+    "direction_id" : 0,
+    "trip_headsign" : "Przemyśl - Kołobrzeg",
+    "service_id" : "noService",
+    "shape_id" : "2DBB1C01-45FB-46A2-A3DA-3D4ECA855535",
+    "route_id" : "21334A6D-44DD-479B-B626-2310E6AAE5B2",
+    "trip_id" : "0ABB3425-074C-44A6-AFE1-7B6045313E55"
+  },
+  {
+    "trip_short_name" : "NJ 464",
+    "direction_id" : 0,
+    "trip_headsign" : "Graz - Zurich",
+    "service_id" : "noService",
+    "shape_id" : "41C11DB5-A683-4FC0-874F-1716548D7780",
+    "route_id" : "6A255EF5-CFE1-4C21-B301-ADE5F58E3E93",
+    "trip_id" : "1D0A89E7-7A29-45B9-A509-34C4F2EA82B9"
+  },
+  {
+    "trip_short_name" : "NJ 465",
+    "direction_id" : 0,
+    "trip_headsign" : "Zurich - Graz",
+    "service_id" : "noService",
+    "shape_id" : "512EA883-7438-4AA9-975B-F4C1D711F813",
+    "route_id" : "6A255EF5-CFE1-4C21-B301-ADE5F58E3E93",
+    "trip_id" : "531AC624-BB74-4A65-821E-5861D85574A8"
+  },
+  {
+    "trip_short_name" : "NJ 295",
+    "direction_id" : 0,
+    "trip_headsign" : "Munich - Rome",
+    "service_id" : "noService",
+    "shape_id" : "5992EDC1-0E4E-4419-A2BF-CB721C826575",
+    "route_id" : "51F79C09-7E24-412C-9FD5-E1978DCDF432",
+    "trip_id" : "5B03E239-5CFE-46F8-9229-C54737A6448A"
+  },
+  {
+    "trip_short_name" : "NJ 294",
+    "direction_id" : 0,
+    "trip_headsign" : "Rome - Munich",
+    "service_id" : "noService",
+    "shape_id" : "9273470E-2AC9-4E67-B4B5-4C034FBB4B9A",
+    "route_id" : "51F79C09-7E24-412C-9FD5-E1978DCDF432",
+    "trip_id" : "6FCC8E67-3A08-44A5-8178-074FFC03CAF4"
+  },
+  {
+    "trip_short_name" : "ICN 1963",
+    "direction_id" : 0,
+    "trip_headsign" : "Milan - Syracuse",
+    "service_id" : "noService",
+    "shape_id" : "FD74A7D9-3C85-492C-8CEC-F6B5E5176252",
+    "route_id" : "F1492A9D-8E3A-4F32-A880-B77661D56E05",
+    "trip_id" : "FC91F9DA-637F-47FB-80E9-C5921D99155C"
+  },
+  {
+    "trip_short_name" : "ICN 1584",
+    "direction_id" : 0,
+    "trip_headsign" : "Syracuse - Milan",
+    "service_id" : "noService",
+    "shape_id" : "63741A4A-B439-46CF-9DDC-3071D767A436",
+    "route_id" : "F1492A9D-8E3A-4F32-A880-B77661D56E05",
+    "trip_id" : "63536686-C37C-43FB-AA43-B49146F251AA"
+  },
+  {
+    "trip_short_name" : "EN 476\/456\/406",
+    "direction_id" : 0,
+    "trip_headsign" : "Budapest - Warsaw",
+    "service_id" : "noService",
+    "shape_id" : "44FE9511-6D54-4F04-B075-15E48381C5FE",
+    "route_id" : "6C753EE0-2290-465D-A603-66440024D676",
+    "trip_id" : "99B28F37-C810-47BC-84C4-355053DBD11F"
+  },
+  {
+    "trip_short_name" : "EN 407\/477",
+    "direction_id" : 0,
+    "trip_headsign" : "Warsaw - Budapest",
+    "service_id" : "noService",
+    "shape_id" : "6B33F252-E237-4B8A-A355-F0BC3FCD31A0",
+    "route_id" : "6C753EE0-2290-465D-A603-66440024D676",
+    "trip_id" : "708ABD25-16A9-441B-9BB5-E6419D56BC15"
+  },
+  {
+    "trip_short_name" : "G1246\/1605\/481",
+    "direction_id" : 0,
+    "trip_headsign" : "Budapest - Rijeka",
+    "service_id" : "noService",
+    "shape_id" : "55CC6092-4251-4363-BE4E-881E1E0D587B",
+    "route_id" : "D04C7B6B-2F8A-441E-BD8C-EE9EEB1F9543",
+    "trip_id" : "C11A4757-E6AB-4495-9663-3FE7226DF634"
+  },
+  {
+    "trip_short_name" : "B480\/1604\/1247",
+    "direction_id" : 0,
+    "trip_headsign" : "Rijeka - Budapest",
+    "service_id" : "noService",
+    "shape_id" : "994D8D73-C8FF-41D6-8B1D-D760467E3218",
+    "route_id" : "D04C7B6B-2F8A-441E-BD8C-EE9EEB1F9543",
+    "trip_id" : "8B7D6FD2-FEE2-4493-8E80-2969AA419CC5"
+  },
+  {
+    "trip_short_name" : "D 493",
+    "direction_id" : 0,
+    "trip_headsign" : "Sofia - Istanbul",
+    "service_id" : "noService",
+    "shape_id" : "B4D9C99D-9623-4723-9B32-AD9D04CFAAFE",
+    "route_id" : "8103F4F5-3999-47B3-9080-307D322E8C60",
+    "trip_id" : "BF21DEBC-AB2E-4A12-8BC3-ABBD364242D5"
+  },
+  {
+    "trip_short_name" : "D 81032",
+    "direction_id" : 0,
+    "trip_headsign" : "Istanbul - Sofia",
+    "service_id" : "noService",
+    "shape_id" : "0171E829-00F2-46B1-8610-A838E31221BB",
+    "route_id" : "8103F4F5-3999-47B3-9080-307D322E8C60",
+    "trip_id" : "24178BE6-228D-4D5F-B88A-B3A02C769B13"
+  },
+  {
+    "trip_short_name" : "ICN 774",
+    "direction_id" : 0,
+    "trip_headsign" : "Rome - Trieste",
+    "service_id" : "noService",
+    "shape_id" : "3E02B498-7BEE-4BFE-8D16-5DBA3CD9C99A",
+    "route_id" : "F2AEEE44-1B55-4CB3-A189-33A4EAB92FD9",
+    "trip_id" : "C995BCC9-C307-4847-B8EA-B9DA7D97B3AC"
+  },
+  {
+    "trip_short_name" : "ICN 770",
+    "direction_id" : 0,
+    "trip_headsign" : "Trieste - Rome",
+    "service_id" : "noService",
+    "shape_id" : "0655778D-DC82-48C5-8FF9-18BA11BA82A8",
+    "route_id" : "F2AEEE44-1B55-4CB3-A189-33A4EAB92FD9",
+    "trip_id" : "047CF72C-0CD8-4B8B-8147-918629CF69B4"
+  },
+  {
+    "trip_short_name" : "ICN 1958",
+    "direction_id" : 0,
+    "trip_headsign" : "Palermo - Rome",
+    "service_id" : "noService",
+    "shape_id" : "7C423276-29F8-4F49-86DB-82C7DAE2F595",
+    "route_id" : "6BEC2A58-E5D7-4ADA-A9EF-88C4858F78C6",
+    "trip_id" : "759DAC0F-7C44-421D-86A3-31024AF91DAB"
+  },
+  {
+    "trip_short_name" : "ICN 1559",
+    "direction_id" : 0,
+    "trip_headsign" : "Rome - Palermo",
+    "service_id" : "noService",
+    "shape_id" : "910522BC-54FF-46E1-BF67-C1B4DEFEDCE2",
+    "route_id" : "6BEC2A58-E5D7-4ADA-A9EF-88C4858F78C6",
+    "trip_id" : "1DD17D8C-12B9-4AE7-A344-05C5878ADE22"
+  },
+  {
+    "trip_short_name" : "B410",
+    "direction_id" : 0,
+    "trip_headsign" : "Belgrade - Ljubljana",
+    "service_id" : "noService",
+    "shape_id" : "E219F4F3-FD98-4A10-A603-6BC44995299D",
+    "route_id" : "F92F97D5-B2E7-45AA-A8BB-DB04293AA18E",
+    "trip_id" : "B63F69DB-7EE5-47AC-955E-E6533748E9CF"
+  },
+  {
+    "trip_short_name" : "TLK 88170",
+    "direction_id" : 0,
+    "trip_headsign" : "Gorzów Wielkopolski - Warsaw",
+    "service_id" : "noService",
+    "shape_id" : "01D21915-EDC5-4C69-9C00-FC11EFE08C6D",
+    "route_id" : "AD32E254-51EA-4DC3-B300-CB998AE7124C",
+    "trip_id" : "DE17AADE-F8D6-4F66-933E-7D086A24E2B9"
+  },
+  {
+    "trip_short_name" : "TLK 18171",
+    "direction_id" : 0,
+    "trip_headsign" : "Warsaw - Gorzów Wielkopolski",
+    "service_id" : "noService",
+    "shape_id" : "26CB466E-2ACF-4618-A69B-6AF3854310E8",
+    "route_id" : "AD32E254-51EA-4DC3-B300-CB998AE7124C",
+    "trip_id" : "EE1796A8-6136-4054-8556-DBF0D69D1D0F"
+  },
+  {
+    "trip_short_name" : "TH 310",
+    "direction_id" : 0,
+    "trip_headsign" : "Lisbon - Hendaye",
+    "service_id" : "noService",
+    "shape_id" : "CA221B9F-326F-4213-AAC3-E3B5C5873930",
+    "route_id" : "015BAB36-B539-4A07-9F15-AB0AEEF6CB68",
+    "trip_id" : "662809A3-B70D-408E-B4AC-CDC906B5314F"
+  },
+  {
+    "trip_short_name" : "TH 313",
+    "direction_id" : 0,
+    "trip_headsign" : "Hendaye - Lisbon",
+    "service_id" : "noService",
+    "shape_id" : "A0C60C84-1858-4F81-87F2-88D5CF033306",
+    "route_id" : "015BAB36-B539-4A07-9F15-AB0AEEF6CB68",
+    "trip_id" : "833BC0EE-6821-44BF-AC41-5F8C27D9F7A1"
+  },
+  {
+    "trip_short_name" : "IR 1643\/4133",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Sighetu Marmației",
+    "service_id" : "noService",
+    "shape_id" : "C0FFE6BF-E891-4EDF-A757-70F181B3963D",
+    "route_id" : "BC6CC51C-4ACB-4DCB-A808-3DED4D3DF7F1",
+    "trip_id" : "ECD10A09-362D-48D7-B213-2FFCF69B6FBB"
+  },
+  {
+    "trip_short_name" : "IR 4136\/1644",
+    "direction_id" : 0,
+    "trip_headsign" : "Sighetu Marmației - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "B583DC85-3DB0-4BA8-8D4F-036788F2BFD3",
+    "route_id" : "BC6CC51C-4ACB-4DCB-A808-3DED4D3DF7F1",
+    "trip_id" : "252909CE-DBAC-4E4E-90A8-0DEFF0077535"
+  },
+  {
+    "trip_short_name" : "TLK 33500",
+    "direction_id" : 0,
+    "trip_headsign" : "Krynica-Zdrój - Gdynia",
+    "service_id" : "noService",
+    "shape_id" : "D555287C-1236-4D74-9E60-5AC3B193B88B",
+    "route_id" : "DF2447AE-2EBA-4C28-A9D6-5FFB9BF71290",
+    "trip_id" : "A047CDA0-8C2B-4092-8552-10AC4A756779"
+  },
+  {
+    "trip_short_name" : "P 267",
+    "direction_id" : 0,
+    "trip_headsign" : "Helsinki - Rovaniemi",
+    "service_id" : "noService",
+    "shape_id" : "46DBE7DB-957D-4EC2-9B2E-B7BBA2B8FCB9",
+    "route_id" : "3FC1D5F7-9824-4A22-A8C7-43751188839D",
+    "trip_id" : "0C3912CB-DC38-48F5-BB91-B5B13034B835"
+  },
+  {
+    "trip_short_name" : "P 264",
+    "direction_id" : 0,
+    "trip_headsign" : "Rovaniemi - Helsinki",
+    "service_id" : "noService",
+    "shape_id" : "B5991861-7F6D-4059-ACCB-48A0ED645C95",
+    "route_id" : "3FC1D5F7-9824-4A22-A8C7-43751188839D",
+    "trip_id" : "463A72DD-E301-4844-A3E0-4D8E9C0546F7"
+  },
+  {
+    "trip_short_name" : "TH 752",
+    "direction_id" : 0,
+    "trip_headsign" : "Ferrol - Madrid",
+    "service_id" : "noService",
+    "shape_id" : "0ED96E65-8886-4312-B3A2-7CB226341679",
+    "route_id" : "77BFD6AC-8225-4E92-8219-CCCE86F43577",
+    "trip_id" : "B9A172B0-401F-4297-972C-0D504310E8C9"
+  },
+  {
+    "trip_short_name" : "TH 751",
+    "direction_id" : 0,
+    "trip_headsign" : "Madrid - Ferrol",
+    "service_id" : "noService",
+    "shape_id" : "54FDAFD5-DE12-48CA-AA21-AB84C1F5B2EF",
+    "route_id" : "77BFD6AC-8225-4E92-8219-CCCE86F43577",
+    "trip_id" : "622D8CE7-D514-40C3-AAA3-07D38797866A"
+  },
+  {
+    "trip_short_name" : "IC 1130",
+    "direction_id" : 0,
+    "trip_headsign" : "Copenhagen - Hamburg",
+    "service_id" : "noService",
+    "shape_id" : "C3B5D235-1AB2-4358-8B3C-9A9D7116DF2F",
+    "route_id" : "A98417AB-A1E4-4252-AF4E-B6D7218B0471",
+    "trip_id" : "C39B23FE-27DA-48E0-91D8-F7276CFFB50F"
+  },
+  {
+    "trip_short_name" : "34A",
+    "direction_id" : 0,
+    "trip_headsign" : "Moscow - Tallinn",
+    "service_id" : "noService",
+    "shape_id" : "72A82952-6EB2-4A25-8649-1857DCBEDD24",
+    "route_id" : "81CD556A-EF1F-4D8B-A9CB-A8C22167D787",
+    "trip_id" : "C8469C92-07DD-4382-B55D-AA916F8CC0A6"
+  },
+  {
+    "trip_short_name" : "34X",
+    "direction_id" : 0,
+    "trip_headsign" : "Tallinn - Moscow",
+    "service_id" : "noService",
+    "shape_id" : "535B53CE-ADE2-4A17-A413-2FA1802718D2",
+    "route_id" : "81CD556A-EF1F-4D8B-A9CB-A8C22167D787",
+    "trip_id" : "E4D93615-3B93-40BB-B94A-62C65338E303"
+  },
+  {
+    "trip_short_name" : "IR 1653",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Vatra Dornei",
+    "service_id" : "noService",
+    "shape_id" : "0887AC24-D026-474C-8ABA-45E743DFA3B0",
+    "route_id" : "05E500B1-4D1C-4F4B-A753-C6021922FB17",
+    "trip_id" : "9BDCF648-925B-4032-B821-110ABBD575C7"
+  },
+  {
+    "trip_short_name" : "IR 1654",
+    "direction_id" : 0,
+    "trip_headsign" : "Vatra Dornei - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "DD0B32C7-ABA4-4B48-9B78-78A6541E4C24",
+    "route_id" : "05E500B1-4D1C-4F4B-A753-C6021922FB17",
+    "trip_id" : "E528D713-8AC9-4E97-B506-BC768A60CEFD"
+  },
+  {
+    "trip_short_name" : "BV 8637",
+    "direction_id" : 0,
+    "trip_headsign" : "Plovdiv - Varna",
+    "service_id" : "noService",
+    "shape_id" : "3B255645-FCE0-47C7-9B34-60D9EA240BA8",
+    "route_id" : "CCD6161F-6B76-4A36-87D4-741148F952A7",
+    "trip_id" : "FDDDA798-A10E-4B69-BFA5-82326BAD0E2D"
+  },
+  {
+    "trip_short_name" : "BV 8636",
+    "direction_id" : 0,
+    "trip_headsign" : "Varna - Plovdiv",
+    "service_id" : "noService",
+    "shape_id" : "583276D6-B28D-4AF2-B57D-961EC39FF432",
+    "route_id" : "CCD6161F-6B76-4A36-87D4-741148F952A7",
+    "trip_id" : "3CC59222-979A-4B3F-A715-D94CC089AC7C"
+  },
+  {
+    "trip_short_name" : "IC 1603",
+    "direction_id" : 0,
+    "trip_headsign" : "Kastrup - Aarhus",
+    "service_id" : "noService",
+    "shape_id" : "519AC544-1EF1-461C-8518-A0B437BAD893",
+    "route_id" : "B567F9B7-94B7-4EEA-8052-1FF590235189",
+    "trip_id" : "3150B022-CA5C-4CEA-97F2-3651428AC52D"
+  },
+  {
+    "trip_short_name" : "BV 3637",
+    "direction_id" : 0,
+    "trip_headsign" : "Sofia - Varna",
+    "service_id" : "noService",
+    "shape_id" : "897D8494-DFAD-4615-91B4-BCDFCD505515",
+    "route_id" : "4A879C20-6D5A-4D0B-97B0-33690766EE3B",
+    "trip_id" : "F46EACC1-BE9B-4AA1-852D-38ADCA346B13"
+  },
+  {
+    "trip_short_name" : "BV 3636",
+    "direction_id" : 0,
+    "trip_headsign" : "Varna - Sofia",
+    "service_id" : "noService",
+    "shape_id" : "2A51CDB3-757C-4DC3-84A0-F75394BA823F",
+    "route_id" : "4A879C20-6D5A-4D0B-97B0-33690766EE3B",
+    "trip_id" : "CEEB6E44-D7B9-4F71-8B48-7FC07D652FFE"
+  },
+  {
+    "trip_short_name" : "IC 273",
+    "direction_id" : 0,
+    "trip_headsign" : "Helsinki - Rovaniemi",
+    "service_id" : "noService",
+    "shape_id" : "91DB5B7B-AEBB-4485-9672-07D231D5D9BB",
+    "route_id" : "250DA094-4835-4F44-B28D-F505CD3A3646",
+    "trip_id" : "1521F586-2096-4A17-8678-ECB495C7AA63"
+  },
+  {
+    "trip_short_name" : "IC 266",
+    "direction_id" : 0,
+    "trip_headsign" : "Rovaniemi - Helsinki",
+    "service_id" : "noService",
+    "shape_id" : "7637CA1D-4322-43FA-B8E6-2C364807DC7B",
+    "route_id" : "250DA094-4835-4F44-B28D-F505CD3A3646",
+    "trip_id" : "ACB190A7-BF19-459C-97C7-B1E62C4688DA"
+  },
+  {
+    "trip_short_name" : "31A",
+    "direction_id" : 0,
+    "trip_headsign" : "Helsinki - Moscow",
+    "service_id" : "noService",
+    "shape_id" : "E078DFEC-3F58-4749-8D29-647F7939951A",
+    "route_id" : "E9A6D5CE-A181-413B-80CC-55F8B8FFE8E7",
+    "trip_id" : "3B973069-10E0-4DAC-88D0-37B54A790905"
+  },
+  {
+    "trip_short_name" : "32A",
+    "direction_id" : 0,
+    "trip_headsign" : "Moscow - Helsinki",
+    "service_id" : "noService",
+    "shape_id" : "08C36076-A501-4DA9-87DE-FCB97E72C4D1",
+    "route_id" : "E9A6D5CE-A181-413B-80CC-55F8B8FFE8E7",
+    "trip_id" : "751E1FB4-2A6E-4DA5-A40F-0D3811B6F5AB"
+  },
+  {
+    "trip_short_name" : "EN 23J\/452",
+    "direction_id" : 0,
+    "trip_headsign" : "Moscow - Paris",
+    "service_id" : "noService",
+    "shape_id" : "8288AA3D-A21A-4C05-BE1D-88B02C79D4C4",
+    "route_id" : "27373B8A-5CA0-488D-87FB-AA24023D6E2E",
+    "trip_id" : "605E9E53-C2C8-49DD-A363-85821F7BC098"
+  },
+  {
+    "trip_short_name" : "EN 453\/24J",
+    "direction_id" : 0,
+    "trip_headsign" : "Paris - Moscow",
+    "service_id" : "noService",
+    "shape_id" : "36432466-A5D9-4265-8E39-CCD35122A86E",
+    "route_id" : "27373B8A-5CA0-488D-87FB-AA24023D6E2E",
+    "trip_id" : "B3AC895A-89DE-4132-A940-996C4ECB4192"
+  },
+  {
+    "trip_short_name" : "EN 40462",
+    "direction_id" : 0,
+    "trip_headsign" : "Budapest - Zurich",
+    "service_id" : "noService",
+    "shape_id" : "881D3614-41C8-4EC5-929C-E4E7F798B5A9",
+    "route_id" : "04720689-D5DA-48F5-B5BD-AB4506CB0BF3",
+    "trip_id" : "6A9B9080-2D5B-4C0E-9AD9-342BEC9FF7D6"
+  },
+  {
+    "trip_short_name" : "EN 40467",
+    "direction_id" : 0,
+    "trip_headsign" : "Zurich - Budapest",
+    "service_id" : "noService",
+    "shape_id" : "F39A0ADA-E0BE-4086-8E61-FB4F4E2C4476",
+    "route_id" : "04720689-D5DA-48F5-B5BD-AB4506CB0BF3",
+    "trip_id" : "F7AC6901-4B44-4502-89F8-CF5DCE0F43B2"
+  },
+  {
+    "trip_short_name" : "G1204",
+    "direction_id" : 0,
+    "trip_headsign" : "Budapest - Split",
+    "service_id" : "noService",
+    "shape_id" : "9C1D87D0-4CC6-430B-9E3A-C94B79CC0FE6",
+    "route_id" : "7B598EE6-1903-47EE-98B3-6B79631154D2",
+    "trip_id" : "1EE7A3FA-FB83-4279-8E1F-3FB36BE57BAD"
+  },
+  {
+    "trip_short_name" : "B1205",
+    "direction_id" : 0,
+    "trip_headsign" : "Split - Budapest",
+    "service_id" : "noService",
+    "shape_id" : "4981D840-3576-45A8-8B42-A7D2675E94B3",
+    "route_id" : "7B598EE6-1903-47EE-98B3-6B79631154D2",
+    "trip_id" : "8526BA06-9C1D-4C28-A4A8-B85BE4EFECE8"
+  },
+  {
+    "trip_short_name" : "EN476\/572",
+    "direction_id" : 0,
+    "trip_headsign" : "Budapest - Prague",
+    "service_id" : "noService",
+    "shape_id" : "50D95166-A286-4D38-A88D-35558842AB48",
+    "route_id" : "48F40402-D1F7-4F08-B002-18FAB19E6FE2",
+    "trip_id" : "388C4216-F0A3-47E2-B0C2-8F2B577B0929"
+  },
+  {
+    "trip_short_name" : "IC573\/EN477",
+    "direction_id" : 0,
+    "trip_headsign" : "Prague - Budapest",
+    "service_id" : "noService",
+    "shape_id" : "CA0334F9-30F5-4322-88F6-677428C97873",
+    "route_id" : "48F40402-D1F7-4F08-B002-18FAB19E6FE2",
+    "trip_id" : "E63EBD56-E086-41EB-B973-B3CA0F1AD7F5"
+  },
+  {
+    "trip_short_name" : "EN 21E\/404",
+    "direction_id" : 0,
+    "trip_headsign" : "Moscow - Prague",
+    "service_id" : "noService",
+    "shape_id" : "2BFCEB9E-301D-4F1B-89AC-6F26FC484E73",
+    "route_id" : "66085EE4-2E81-4D5A-8D74-2270F889BEB1",
+    "trip_id" : "527FC49A-A4E2-4DB5-8C4B-092CE1520ED6"
+  },
+  {
+    "trip_short_name" : "EN 405\/22A",
+    "direction_id" : 0,
+    "trip_headsign" : "Prague - Moscow",
+    "service_id" : "noService",
+    "shape_id" : "C79486FA-345F-4BC8-BAAB-AE7EBD1E2A23",
+    "route_id" : "66085EE4-2E81-4D5A-8D74-2270F889BEB1",
+    "trip_id" : "B45CEEB2-F0F6-4C69-A65D-5B8AF29EC6CB"
+  },
+  {
+    "trip_short_name" : "BV 2627",
+    "direction_id" : 0,
+    "trip_headsign" : "Sofia - Varna",
+    "service_id" : "noService",
+    "shape_id" : "495FABC2-DFAC-4D68-B677-22393DCB081E",
+    "route_id" : "396E73C3-F1B9-40DB-A2E2-A01FDA3C8186",
+    "trip_id" : "01E32F6D-EA25-490D-B0F7-BD5E12D5691F"
+  },
+  {
+    "trip_short_name" : "Flixnight",
+    "direction_id" : 0,
+    "trip_headsign" : "Hamburg - Lörrach",
+    "service_id" : "noService",
+    "shape_id" : "4885BBFC-FE48-4B3F-87E9-02C90794C18E",
+    "route_id" : "7679F0D6-2F47-4BC7-AC2E-C17033DA3E92",
+    "trip_id" : "DA4AD79F-677A-4890-9524-5EE669050AE2"
+  },
+  {
+    "trip_short_name" : "Flixnight",
+    "direction_id" : 0,
+    "trip_headsign" : "Lörrach - Hamburg",
+    "service_id" : "noService",
+    "shape_id" : "74200CB7-E6B1-4B3A-9E21-3010C1D0BCA2",
+    "route_id" : "7679F0D6-2F47-4BC7-AC2E-C17033DA3E92",
+    "trip_id" : "BD6D37CD-DB8A-44EE-ACCC-676B2441A5B5"
+  },
+  {
+    "trip_short_name" : "40749",
+    "direction_id" : 0,
+    "trip_headsign" : "Kiev - Vienna",
+    "service_id" : "noService",
+    "shape_id" : "45F93F7C-60E8-4CCF-95B4-21DA5F2BFC51",
+    "route_id" : "0ADE8FDF-DA6E-4ADC-A4F5-3305380378AA",
+    "trip_id" : "2F4F03D5-9687-4D7C-B757-C0AB02550FE1"
+  },
+  {
+    "trip_short_name" : "D 40147",
+    "direction_id" : 0,
+    "trip_headsign" : "Vienna - Kiev",
+    "service_id" : "noService",
+    "shape_id" : "F6F71E44-601C-4E65-8F4A-2A3E05FBBC35",
+    "route_id" : "0ADE8FDF-DA6E-4ADC-A4F5-3305380378AA",
+    "trip_id" : "1D3C4055-FCCE-40DB-B6AC-6DC60741E0CA"
+  },
+  {
+    "trip_short_name" : "NJ 466",
+    "direction_id" : 0,
+    "trip_headsign" : "Vienna - Zurich",
+    "service_id" : "noService",
+    "shape_id" : "8581CB81-9D9B-490A-AA64-C42297CBEBC9",
+    "route_id" : "6639F36E-DF89-4360-AB1B-E7D3622960CF",
+    "trip_id" : "3AB20CF5-79AB-4FB4-BC94-6AE92654222A"
+  },
+  {
+    "trip_short_name" : "NJ 467",
+    "direction_id" : 0,
+    "trip_headsign" : "Zurich - Vienna",
+    "service_id" : "noService",
+    "shape_id" : "1817D9FD-EBD6-48D1-9DC5-4055547DC7A2",
+    "route_id" : "6639F36E-DF89-4360-AB1B-E7D3622960CF",
+    "trip_id" : "6AFA36E2-92DA-42F8-ADFF-A288D5D1451F"
+  },
+  {
+    "trip_short_name" : "EN 9S",
+    "direction_id" : 0,
+    "trip_headsign" : "Moscow - Warsaw",
+    "service_id" : "noService",
+    "shape_id" : "BD29D0DE-802D-4B66-9DAB-79ADCA570C79",
+    "route_id" : "DA176919-9E1A-4EB5-B276-BEF560212F77",
+    "trip_id" : "A25B9AD6-EACE-4DEE-AA57-2D79124C9FF1"
+  },
+  {
+    "trip_short_name" : "EN 10S",
+    "direction_id" : 0,
+    "trip_headsign" : "Warsaw - Moscow",
+    "service_id" : "noService",
+    "shape_id" : "EEAB966F-29A3-4919-8A0F-15CBC96B276D",
+    "route_id" : "DA176919-9E1A-4EB5-B276-BEF560212F77",
+    "trip_id" : "35500F6F-9989-42FD-8329-12BAC2F73D94"
+  },
+  {
+    "trip_short_name" : "VEO 3901",
+    "direction_id" : 0,
+    "trip_headsign" : "Duved - Malmö",
+    "service_id" : "noService",
+    "shape_id" : "85B77E53-D8FF-46C1-8316-8CE445ADC4B5",
+    "route_id" : "86EC114F-0CA2-4813-8250-B77737EC6CDF",
+    "trip_id" : "8FC9D7DD-B48C-4914-B0C5-EF5B616EF6FC"
+  },
+  {
+    "trip_short_name" : "VEO 3900",
+    "direction_id" : 0,
+    "trip_headsign" : "Malmö - Duved",
+    "service_id" : "noService",
+    "shape_id" : "CFA46BF1-9950-4533-B73A-B8C65CADB930",
+    "route_id" : "86EC114F-0CA2-4813-8250-B77737EC6CDF",
+    "trip_id" : "63D6F3B1-8650-481C-8EBF-DD6A24748533"
+  },
+  {
+    "trip_short_name" : "VEO 3900",
+    "direction_id" : 0,
+    "trip_headsign" : "Malmö - Röjan",
+    "service_id" : "noService",
+    "shape_id" : "AA13ABE1-B544-4E00-80CB-0CA0DC869869",
+    "route_id" : "86EC114F-0CA2-4813-8250-B77737EC6CDF",
+    "trip_id" : "B6BF737B-D0CB-4D1F-B257-7205A0379776"
+  },
+  {
+    "trip_short_name" : "VEO 3901",
+    "direction_id" : 0,
+    "trip_headsign" : "Röjan - Malmö",
+    "service_id" : "noService",
+    "shape_id" : "40C2845A-3826-45C1-919C-89D4E7D65162",
+    "route_id" : "86EC114F-0CA2-4813-8250-B77737EC6CDF",
+    "trip_id" : "DBED929D-7E94-4583-A8F8-B44049903871"
+  },
+  {
+    "trip_short_name" : "NJ 40421",
+    "direction_id" : 0,
+    "trip_headsign" : "Düsseldorf - Vienna",
+    "service_id" : "noService",
+    "shape_id" : "9449037D-858D-4B72-B1E3-6B0B3BDF43A2",
+    "route_id" : "3BD802D8-CF95-47DE-9B03-2716311377EC",
+    "trip_id" : "6666C739-1856-4143-8A0C-8720D9C8596D"
+  },
+  {
+    "trip_short_name" : "NJ 40490",
+    "direction_id" : 0,
+    "trip_headsign" : "Vienna - Düsseldorf",
+    "service_id" : "noService",
+    "shape_id" : "C737EEA4-2486-4DD6-8CAC-75C8C26043B9",
+    "route_id" : "3BD802D8-CF95-47DE-9B03-2716311377EC",
+    "trip_id" : "55BF7ADD-A63B-4A91-B2A9-1A2535AA4A3A"
+  },
+  {
+    "trip_short_name" : "EN 50466",
+    "direction_id" : 0,
+    "trip_headsign" : "Prague - Zurich",
+    "service_id" : "noService",
+    "shape_id" : "8917883B-3B18-4C98-B451-8809307217FF",
+    "route_id" : "C280F419-F077-45BC-91AE-C556F5917C75",
+    "trip_id" : "8A5E3C34-37D9-4D57-91FD-2198DC6089E1"
+  },
+  {
+    "trip_short_name" : "EN 50467",
+    "direction_id" : 0,
+    "trip_headsign" : "Zurich - Prague",
+    "service_id" : "noService",
+    "shape_id" : "B0207162-3DBB-40A0-B08E-3C128B0B3E0C",
+    "route_id" : "C280F419-F077-45BC-91AE-C556F5917C75",
+    "trip_id" : "E420DD3A-319E-4A17-A8FA-58D90386AECE"
+  },
+  {
+    "trip_short_name" : "TLK 18170\/1",
+    "direction_id" : 0,
+    "trip_headsign" : "Warsaw - Świnoujście",
+    "service_id" : "noService",
+    "shape_id" : "7FC9D3C3-C6B3-4E6A-ACBA-325BB400EB72",
+    "route_id" : "6B2F8AEC-A990-4673-9DE9-56F03567B1DF",
+    "trip_id" : "3CBE0AA4-0783-4A69-A932-080E2D361DFE"
+  },
+  {
+    "trip_short_name" : "TLK 81170\/1",
+    "direction_id" : 0,
+    "trip_headsign" : "Świnoujście - Warsaw",
+    "service_id" : "noService",
+    "shape_id" : "58AC78AF-A256-4126-9437-AC1516077AC8",
+    "route_id" : "6B2F8AEC-A990-4673-9DE9-56F03567B1DF",
+    "trip_id" : "496A64C8-686D-42F2-AAD9-C9A4EC90123F"
+  },
+  {
+    "trip_short_name" : "IR 1837",
+    "direction_id" : 0,
+    "trip_headsign" : "Iași - Timișoara",
+    "service_id" : "noService",
+    "shape_id" : "352A2358-8463-409D-90C1-0DDCE3F6A39C",
+    "route_id" : "39B1C59F-E7E7-4627-94E1-329842169F09",
+    "trip_id" : "48ADA9F7-C5E2-4B9C-ABA4-3A9D9E048BE5"
+  },
+  {
+    "trip_short_name" : "IR 1838",
+    "direction_id" : 0,
+    "trip_headsign" : "Timișoara - Iași",
+    "service_id" : "noService",
+    "shape_id" : "ADA60EEA-8AFA-4E3D-A9E9-BA1437AEA69A",
+    "route_id" : "39B1C59F-E7E7-4627-94E1-329842169F09",
+    "trip_id" : "32C25C81-F612-4464-B8DE-EB9A46CE0E92"
+  },
+  {
+    "trip_short_name" : "HOT 851",
+    "direction_id" : 0,
+    "trip_headsign" : "Madrid - Pontevedra",
+    "service_id" : "noService",
+    "shape_id" : "530C14A7-44DF-42C6-90CF-D2127ADE47F3",
+    "route_id" : "DBBAE43E-4E2C-4155-B34F-52DBD7724CDB",
+    "trip_id" : "06BB5185-978B-497D-A221-16C683B2118D"
+  },
+  {
+    "trip_short_name" : "HOT 852",
+    "direction_id" : 0,
+    "trip_headsign" : "Pontevedra - Madrid",
+    "service_id" : "noService",
+    "shape_id" : "D7F6FB08-AD58-400D-B9B5-83E1EA7D914D",
+    "route_id" : "DBBAE43E-4E2C-4155-B34F-52DBD7724CDB",
+    "trip_id" : "C58DC0B1-A599-4E66-852E-09B9A0FA8F92"
+  },
+  {
+    "trip_short_name" : "BV 8626",
+    "direction_id" : 0,
+    "trip_headsign" : "Burgas - Sofia",
+    "service_id" : "noService",
+    "shape_id" : "7833CE77-47D4-4DCB-B3AA-48C3ABBE649E",
+    "route_id" : "80AF601B-EFCE-4E69-88B8-078618DFBA06",
+    "trip_id" : "C9AA6E3E-49CB-4DC7-A07C-2BF27A45A53E"
+  },
+  {
+    "trip_short_name" : "BV 8627",
+    "direction_id" : 0,
+    "trip_headsign" : "Sofia - Burgas",
+    "service_id" : "noService",
+    "shape_id" : "B365A67C-B10C-44C4-9DAF-48024C1C76A7",
+    "route_id" : "80AF601B-EFCE-4E69-88B8-078618DFBA06",
+    "trip_id" : "75D0DF8B-2C8E-4C4B-9273-6DED4F8584DD"
+  },
+  {
+    "trip_short_name" : "019",
+    "direction_id" : 0,
+    "trip_headsign" : "Beijing - Moscow",
+    "service_id" : "noService",
+    "shape_id" : "8E8FB05C-5078-477D-B4C1-770F83018391",
+    "route_id" : "9AA9DE1A-D6FD-485B-94CF-62C907D56DE9",
+    "trip_id" : "A7E55171-0A96-4D78-B31E-674889CE40CE"
+  },
+  {
+    "trip_short_name" : "ICN 758",
+    "direction_id" : 0,
+    "trip_headsign" : "Lecce - Milan",
+    "service_id" : "noService",
+    "shape_id" : "E14CF6DA-CA87-43F9-9AAA-ED6BCA9BCBA0",
+    "route_id" : "11837E23-4B3D-4EF9-9E48-2286EE54824F",
+    "trip_id" : "B04A7670-4D2E-4AC7-8EE6-B1338C114B2E"
+  },
+  {
+    "trip_short_name" : "ICN 765",
+    "direction_id" : 0,
+    "trip_headsign" : "Milan - Lecce",
+    "service_id" : "noService",
+    "shape_id" : "680169D4-5B4C-470B-A767-727F19DCBDD3",
+    "route_id" : "11837E23-4B3D-4EF9-9E48-2286EE54824F",
+    "trip_id" : "E8C96BFB-2326-4149-98EE-13769A631DD4"
+  },
+  {
+    "trip_short_name" : "EN 414",
+    "direction_id" : 0,
+    "trip_headsign" : "Belgrade - Zurich",
+    "service_id" : "noService",
+    "shape_id" : "626FFCB5-9CA6-4D05-92A5-D2D7EE8E18F6",
+    "route_id" : "C432FE8B-13E4-4AA0-A72B-4BFA496CABE8",
+    "trip_id" : "BE90D368-F49D-4298-AA50-B796571F4367"
+  },
+  {
+    "trip_short_name" : "EN 415",
+    "direction_id" : 0,
+    "trip_headsign" : "Zurich - Belgrade",
+    "service_id" : "noService",
+    "shape_id" : "897B3BCC-D2C2-42DB-A3C4-7A00BCEB21D8",
+    "route_id" : "C432FE8B-13E4-4AA0-A72B-4BFA496CABE8",
+    "trip_id" : "FFB721A4-98BC-420F-A511-21BC99EA657A"
+  },
+  {
+    "trip_short_name" : "Bosfor",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Istanbul",
+    "service_id" : "noService",
+    "shape_id" : "5A96C50D-8C28-4925-8444-594C7E8C33A3",
+    "route_id" : "162A8293-E09C-48E3-BCDE-29ECFBC25FA3",
+    "trip_id" : "999604B6-2EE3-4CC2-86C5-A2A48AAFAEFF"
+  },
+  {
+    "trip_short_name" : "Bosfor",
+    "direction_id" : 0,
+    "trip_headsign" : "Istanbul - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "DF408CDC-DD62-4F38-9AD7-9800ED807CB0",
+    "route_id" : "162A8293-E09C-48E3-BCDE-29ECFBC25FA3",
+    "trip_id" : "E797B7C4-526E-41F8-A673-C2699E314F1C"
+  },
+  {
+    "trip_short_name" : "IR 1641\/4090",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Satu Mare",
+    "service_id" : "noService",
+    "shape_id" : "71E16238-533E-4BDB-8539-921A9E295BD7",
+    "route_id" : "738BF848-4278-459F-A31B-771CB79F7403",
+    "trip_id" : "05F7488C-FC2D-4F55-AD70-D5E8C760FB5A"
+  },
+  {
+    "trip_short_name" : "IR 4091\/1642",
+    "direction_id" : 0,
+    "trip_headsign" : "Satu Mare - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "E5C3E538-CF3A-42A9-886C-35DBD513EAF9",
+    "route_id" : "738BF848-4278-459F-A31B-771CB79F7403",
+    "trip_id" : "5D6B98D3-4972-4BB1-81B7-8932F9BA493D"
+  },
+  {
+    "trip_short_name" : "NT 93",
+    "direction_id" : 0,
+    "trip_headsign" : "Narvik - Stockholm",
+    "service_id" : "noService",
+    "shape_id" : "668BBEA5-BFD0-43F8-8EC4-67CD7EF602EE",
+    "route_id" : "0ACAB50B-B7C7-4DE1-997C-6D9ADCFD35A4",
+    "trip_id" : "D420BDA2-94EB-4CA4-AB24-46D26E11EE4A"
+  },
+  {
+    "trip_short_name" : "NT 94",
+    "direction_id" : 0,
+    "trip_headsign" : "Stockholm - Narvik",
+    "service_id" : "noService",
+    "shape_id" : "D0230B7D-F45D-44BA-9EDB-B39CB6DB2AFC",
+    "route_id" : "0ACAB50B-B7C7-4DE1-997C-6D9ADCFD35A4",
+    "trip_id" : "567D8F02-557E-475D-90AF-2A88701B6817"
+  },
+  {
+    "trip_short_name" : "BV 9646\/2626",
+    "direction_id" : 0,
+    "trip_headsign" : "Silistra - Sofia",
+    "service_id" : "noService",
+    "shape_id" : "D0691326-5C80-4F2B-8182-2A54ADB9CE3C",
+    "route_id" : "C3ECDBBD-232D-4B61-A140-5E63F81857E7",
+    "trip_id" : "1E952A40-A5A1-4C51-AF33-B6FFF786B410"
+  },
+  {
+    "trip_short_name" : "BV 9647",
+    "direction_id" : 0,
+    "trip_headsign" : "Sofia - Silistra",
+    "service_id" : "noService",
+    "shape_id" : "3E21F67B-A359-41FF-B10C-554E43844D39",
+    "route_id" : "C3ECDBBD-232D-4B61-A140-5E63F81857E7",
+    "trip_id" : "7DDEFE89-3CE4-426A-B4E1-A3D773DCEB8E"
+  },
+  {
+    "trip_short_name" : "TLK 45170\/1",
+    "direction_id" : 0,
+    "trip_headsign" : "Bielsko-Biała - Gdynia",
+    "service_id" : "noService",
+    "shape_id" : "5D4388A6-33BE-4BF9-8F7C-5E0D087C00C2",
+    "route_id" : "8E21ADFD-B4E2-4DCF-8EB2-03042C092161",
+    "trip_id" : "915B6CBE-862D-47CE-B2ED-2981DF0BC300"
+  },
+  {
+    "trip_short_name" : "TLK 54170\/1",
+    "direction_id" : 0,
+    "trip_headsign" : "Gdynia - Bielsko-Biała",
+    "service_id" : "noService",
+    "shape_id" : "693805C2-3993-433D-8AB7-DF4B112FADA9",
+    "route_id" : "8E21ADFD-B4E2-4DCF-8EB2-03042C092161",
+    "trip_id" : "EB4AA748-1008-4C96-B79D-7BB9165BBBC6"
+  },
+  {
+    "trip_short_name" : "ICE 619",
+    "direction_id" : 0,
+    "trip_headsign" : "Dortmund - Munich",
+    "service_id" : "noService",
+    "shape_id" : "EED14FC6-2EFA-4725-B157-1E0E71E1A459",
+    "route_id" : "CE1AD96F-52FF-4C7C-9160-9F7F4CCF490C",
+    "trip_id" : "523B82D3-EBA6-4456-BF3B-FE84AACCE01C"
+  },
+  {
+    "trip_short_name" : "ICE 618",
+    "direction_id" : 0,
+    "trip_headsign" : "Munich - Essen",
+    "service_id" : "noService",
+    "shape_id" : "B8198E52-8F66-4988-A98C-F412379BCDC6",
+    "route_id" : "CE1AD96F-52FF-4C7C-9160-9F7F4CCF490C",
+    "trip_id" : "42D8589F-BBD4-4E9A-8A58-5B376FB93A7E"
+  },
+  {
+    "trip_short_name" : "IC 265",
+    "direction_id" : 0,
+    "trip_headsign" : "Helsinki - Kemijärvi",
+    "service_id" : "noService",
+    "shape_id" : "5E0F04E9-F323-4862-8A5A-41151AEDDDDE",
+    "route_id" : "236B475E-6C79-41D9-A681-22C0C2704384",
+    "trip_id" : "567B005C-61BF-4394-A817-54002A9F2E3A"
+  },
+  {
+    "trip_short_name" : "IC 274",
+    "direction_id" : 0,
+    "trip_headsign" : "Kemijärvi - Helsinki",
+    "service_id" : "noService",
+    "shape_id" : "99BCE529-6A4C-4969-9AC5-CDFCC2DACB0F",
+    "route_id" : "236B475E-6C79-41D9-A681-22C0C2704384",
+    "trip_id" : "AB922DEB-5BFB-45AF-8E37-640F9F38F897"
+  },
+  {
+    "trip_short_name" : "NJ 40463",
+    "direction_id" : 0,
+    "trip_headsign" : "Munich - Venice",
+    "service_id" : "noService",
+    "shape_id" : "9642E604-9600-4089-AF92-0AF1F4B9CD7F",
+    "route_id" : "D5CFCAE5-D52D-4CB6-8491-DDD735D84BDD",
+    "trip_id" : "34187F97-0380-468C-BFF2-3D6144030A1F"
+  },
+  {
+    "trip_short_name" : "NJ 40236",
+    "direction_id" : 0,
+    "trip_headsign" : "Venice - Munich",
+    "service_id" : "noService",
+    "shape_id" : "5564D7A0-127F-4FB6-82AA-A1343081C41A",
+    "route_id" : "D5CFCAE5-D52D-4CB6-8491-DDD735D84BDD",
+    "trip_id" : "434222F3-50A0-4FAB-A0E1-96289DAF73F9"
+  },
+  {
+    "trip_short_name" : "RJ 1020",
+    "direction_id" : 0,
+    "trip_headsign" : "Humenné - Prague",
+    "service_id" : "noService",
+    "shape_id" : "366763C6-6A49-4C2C-B9FE-A9E038AF0F87",
+    "route_id" : "1808F2D1-DEA2-47AE-A26B-F5AF4C47F6FD",
+    "trip_id" : "3CB25B50-AD4F-455E-B059-7E43FCDA40DF"
+  },
+  {
+    "trip_short_name" : "RJ 1021",
+    "direction_id" : 0,
+    "trip_headsign" : "Prague - Humenné",
+    "service_id" : "noService",
+    "shape_id" : "16F84D35-0B78-4EDD-97EC-B6255A000173",
+    "route_id" : "1808F2D1-DEA2-47AE-A26B-F5AF4C47F6FD",
+    "trip_id" : "1C040ACE-D153-400F-AEBF-013F626FAE5C"
+  },
+  {
+    "trip_short_name" : "RT 745",
+    "direction_id" : 0,
+    "trip_headsign" : "Oslo - Stavanger",
+    "service_id" : "noService",
+    "shape_id" : "C3F93D07-A5E4-48BE-915D-FD9B36393C77",
+    "route_id" : "68EDC7BB-FF16-4F7D-A3CB-FE9F29291D8F",
+    "trip_id" : "BE98F3F8-579A-40CA-95E4-6AF435C02E0C"
+  },
+  {
+    "trip_short_name" : "RT 744",
+    "direction_id" : 0,
+    "trip_headsign" : "Stavanger - Oslo",
+    "service_id" : "noService",
+    "shape_id" : "531DF0F0-8D25-485B-B4FF-791CE49E2A56",
+    "route_id" : "68EDC7BB-FF16-4F7D-A3CB-FE9F29291D8F",
+    "trip_id" : "BC6E7920-87B3-4CB2-B4D3-A00AB7BC4F2D"
+  },
+  {
+    "trip_short_name" : "ICN 3754",
+    "direction_id" : 0,
+    "trip_headsign" : "Rodez - Paris",
+    "service_id" : "noService",
+    "shape_id" : "6B769EA9-2A42-4F8C-A3B5-60EF0EC0E57A",
+    "route_id" : "3B948FCE-351B-475A-8AAF-1D5BEEC2309D",
+    "trip_id" : "415C56E4-8C6C-4D64-9ADC-E0BABB58C7CF"
+  },
+  {
+    "trip_short_name" : "ICN 3755",
+    "direction_id" : 0,
+    "trip_headsign" : "Paris - Rodez",
+    "service_id" : "noService",
+    "shape_id" : "C9FECA92-4FFA-4561-B579-5D64AF545BBF",
+    "route_id" : "3B948FCE-351B-475A-8AAF-1D5BEEC2309D",
+    "trip_id" : "F5671E86-43A2-4A96-A08D-6CD720A2EAF0"
+  },
+  {
+    "trip_short_name" : "TLK 53170\/1",
+    "direction_id" : 0,
+    "trip_headsign" : "Gdynia - Przemyśl",
+    "service_id" : "noService",
+    "shape_id" : "4E192AF8-6306-411B-ABF8-9665F1C28F0B",
+    "route_id" : "528AED75-1E9D-44C5-B6FA-A279BF23B96E",
+    "trip_id" : "6E72D86C-7C45-47B1-849D-C5B660F30F1C"
+  },
+  {
+    "trip_short_name" : "TLK 33174",
+    "direction_id" : 0,
+    "trip_headsign" : "Przemyśl - Gdynia",
+    "service_id" : "noService",
+    "shape_id" : "F5B53DAB-97B4-4411-B997-DA74868A1D18",
+    "route_id" : "528AED75-1E9D-44C5-B6FA-A279BF23B96E",
+    "trip_id" : "E3FDF94C-1361-4459-A711-3D60CA78C0A3"
+  },
+  {
+    "trip_short_name" : "ICN 754",
+    "direction_id" : 0,
+    "trip_headsign" : "Lecce - Turin",
+    "service_id" : "noService",
+    "shape_id" : "2064B6AE-DE4E-40B1-9E56-917E4EADAFB4",
+    "route_id" : "DE4E3ECB-7DB0-4FB3-80C7-3FE2B99C4C90",
+    "trip_id" : "2C97E524-0E84-4CAE-862D-1923BA69690C"
+  },
+  {
+    "trip_short_name" : "ICN 757",
+    "direction_id" : 0,
+    "trip_headsign" : "Turin - Lecce",
+    "service_id" : "noService",
+    "shape_id" : "622A8BC1-9BA8-4490-86AA-E6AB8CA88140",
+    "route_id" : "DE4E3ECB-7DB0-4FB3-80C7-3FE2B99C4C90",
+    "trip_id" : "68410CD9-FAC8-452C-8386-1F8A59EB76DC"
+  },
+  {
+    "trip_short_name" : "D13\/8861\/8812",
+    "direction_id" : 0,
+    "trip_headsign" : "Kiev - Košice",
+    "service_id" : "noService",
+    "shape_id" : "ABAADB2A-ACD0-41D8-801C-A144517C1D67",
+    "route_id" : "31F6251D-5AB6-45EA-84CC-99DFADEE9D5E",
+    "trip_id" : "6FC48569-5862-4334-B1F5-7EF642B3A756"
+  },
+  {
+    "trip_short_name" : "D8813\/8862\/13",
+    "direction_id" : 0,
+    "trip_headsign" : "Košice - Kiev",
+    "service_id" : "noService",
+    "shape_id" : "57AC6D26-FA09-4F04-8AD8-2D897D1D0740",
+    "route_id" : "31F6251D-5AB6-45EA-84CC-99DFADEE9D5E",
+    "trip_id" : "43E19ECC-DF8A-487E-9A74-FE152CE52B22"
+  },
+  {
+    "trip_short_name" : "B335",
+    "direction_id" : 0,
+    "trip_headsign" : "Belgrade - Thessaloniki",
+    "service_id" : "noService",
+    "shape_id" : "06EB104C-EA73-4F6A-BBB5-835298FDC1A3",
+    "route_id" : "B112DD23-6011-4DDB-815C-5B993E512583",
+    "trip_id" : "D2318CBB-7E10-4180-B528-B8C2866FA407"
+  },
+  {
+    "trip_short_name" : "B 334",
+    "direction_id" : 0,
+    "trip_headsign" : "Thessaloniki - Belgrade",
+    "service_id" : "noService",
+    "shape_id" : "68F15FED-67E6-4D3A-AC69-524D79B76AA8",
+    "route_id" : "B112DD23-6011-4DDB-815C-5B993E512583",
+    "trip_id" : "7C129157-0350-4535-AEC4-42C2889D9975"
+  },
+  {
+    "trip_short_name" : "TH 335",
+    "direction_id" : 0,
+    "trip_headsign" : "Lisbon - Madrid",
+    "service_id" : "noService",
+    "shape_id" : "7F799D0D-E0C0-4005-B52A-0C3C7F3FAE1F",
+    "route_id" : "8AAF5BA6-11A5-487A-B021-9352D4FF1E85",
+    "trip_id" : "E7E0F119-613E-467F-AEA1-07F3E16615E0"
+  },
+  {
+    "trip_short_name" : "TH 332",
+    "direction_id" : 0,
+    "trip_headsign" : "Madrid - Lisbon",
+    "service_id" : "noService",
+    "shape_id" : "F28808D8-A8E8-48A8-928F-2A00CE65D5A7",
+    "route_id" : "8AAF5BA6-11A5-487A-B021-9352D4FF1E85",
+    "trip_id" : "2E3A9300-042F-4485-B8FE-CAED656B50EF"
+  },
+  {
+    "trip_short_name" : "NT 1",
+    "direction_id" : 0,
+    "trip_headsign" : "Stockholm - Malmö",
+    "service_id" : "noService",
+    "shape_id" : "696A4D2A-05E2-4121-A121-9795B0093477",
+    "route_id" : "4925DCE7-7201-4AC8-971A-51999F354054",
+    "trip_id" : "209D800D-790E-4551-8EF8-6533BDB4E963"
+  },
+  {
+    "trip_short_name" : "NT 2",
+    "direction_id" : 0,
+    "trip_headsign" : "Malmö - Stockholm",
+    "service_id" : "noService",
+    "shape_id" : "2D66752A-C3FA-4862-942C-207F59FDFAF3",
+    "route_id" : "4925DCE7-7201-4AC8-971A-51999F354054",
+    "trip_id" : "3B24F7E0-A1AD-4F7D-8B51-727492C4E71B"
+  },
+  {
+    "trip_short_name" : "IR 5571\/1765",
+    "direction_id" : 0,
+    "trip_headsign" : "Botoșani - Timișoara",
+    "service_id" : "noService",
+    "shape_id" : "946F6137-9F82-440F-A1EF-0DD8C4EFE804",
+    "route_id" : "2305E170-9C4C-4860-ABAB-4475DDCCB3A5",
+    "trip_id" : "D181FA54-EB9A-4512-A210-A251446C4013"
+  },
+  {
+    "trip_short_name" : "IR 1766\/5570",
+    "direction_id" : 0,
+    "trip_headsign" : "Timișoara - Botoșani",
+    "service_id" : "noService",
+    "shape_id" : "192C4593-586A-4C3F-9270-FE21D40F431B",
+    "route_id" : "2305E170-9C4C-4860-ABAB-4475DDCCB3A5",
+    "trip_id" : "857B1417-CA4A-444E-AD79-BFEBA66EB870"
+  },
+  {
+    "trip_short_name" : "IR 1755",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Suceava",
+    "service_id" : "noService",
+    "shape_id" : "B85C8CF0-916E-4EE2-8436-B08E4B5D3F65",
+    "route_id" : "91C12FBB-211C-4F1C-9881-DF775D756253",
+    "trip_id" : "41924EBD-FC66-4F7F-9470-71E680D4128D"
+  },
+  {
+    "trip_short_name" : "IR 1754",
+    "direction_id" : 0,
+    "trip_headsign" : "Suceava - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "D426EB79-8841-4AC1-B236-D53289C3802C",
+    "route_id" : "91C12FBB-211C-4F1C-9881-DF775D756253",
+    "trip_id" : "A1652C83-0C06-456F-B165-0F724C2B4EF3"
+  },
+  {
+    "trip_short_name" : "IC 446",
+    "direction_id" : 0,
+    "trip_headsign" : "Berlin - Cologne",
+    "service_id" : "noService",
+    "shape_id" : "A39D59A3-7E71-4324-A40A-D057A9272594",
+    "route_id" : "0F91057E-1CC9-4C2C-AEEE-7D6C85884882",
+    "trip_id" : "2D159CA2-5F0E-49A9-90E5-285388451787"
+  },
+  {
+    "trip_short_name" : "IC 447",
+    "direction_id" : 0,
+    "trip_headsign" : "Cologne - Berlin",
+    "service_id" : "noService",
+    "shape_id" : "79DD9668-733C-4440-A332-121789D41BAF",
+    "route_id" : "0F91057E-1CC9-4C2C-AEEE-7D6C85884882",
+    "trip_id" : "6B1B3F62-D774-49F5-B900-1E77FD65C2E9"
+  },
+  {
+    "trip_short_name" : "NJ 457",
+    "direction_id" : 0,
+    "trip_headsign" : "Berlin - Vienna",
+    "service_id" : "noService",
+    "shape_id" : "10E57E59-1F83-482B-89A8-0954F382BD60",
+    "route_id" : "A67AA81B-B7A5-4BDE-93D8-5D87B40A4EDC",
+    "trip_id" : "10AD95A9-B78B-4DA9-B3CE-F8DA6458511D"
+  },
+  {
+    "trip_short_name" : "NJ 456",
+    "direction_id" : 0,
+    "trip_headsign" : "Vienna - Berlin",
+    "service_id" : "noService",
+    "shape_id" : "4F0DE11B-10FB-4ED5-91F4-646D2648A964",
+    "route_id" : "A67AA81B-B7A5-4BDE-93D8-5D87B40A4EDC",
+    "trip_id" : "086564B0-78EA-4832-BBE8-D1EC362E2348"
+  },
+  {
+    "trip_short_name" : "IR 1765",
+    "direction_id" : 0,
+    "trip_headsign" : "Iași - Timișoara",
+    "service_id" : "noService",
+    "shape_id" : "7DF606C0-FB82-493A-A658-043E1A23D326",
+    "route_id" : "6EA878A3-1382-4A8E-AD9E-88D5FFF6382D",
+    "trip_id" : "4CE0B2AB-9B6C-4ED3-9634-546768AD335E"
+  },
+  {
+    "trip_short_name" : "IR 1766",
+    "direction_id" : 0,
+    "trip_headsign" : "Timișoara - Iași",
+    "service_id" : "noService",
+    "shape_id" : "4B3178A3-0BC3-4280-869F-47D227DD4C5A",
+    "route_id" : "6EA878A3-1382-4A8E-AD9E-88D5FFF6382D",
+    "trip_id" : "DC21953D-81C9-4819-9534-C5C50E893098"
+  },
+  {
+    "trip_short_name" : "TH 922",
+    "direction_id" : 0,
+    "trip_headsign" : "Barcelona - Vigo",
+    "service_id" : "noService",
+    "shape_id" : "A55BE4A3-F2B1-4CC1-AD53-7298231ABE37",
+    "route_id" : "7574D3A0-75D1-4FDF-A22B-250E14AE943F",
+    "trip_id" : "22B3422A-0628-4AB1-AC1D-4A3D61B8CDF2"
+  },
+  {
+    "trip_short_name" : "TH 921",
+    "direction_id" : 0,
+    "trip_headsign" : "Vigo - Barcelona",
+    "service_id" : "noService",
+    "shape_id" : "3E1E9E2A-5D66-4B3E-8A44-5ED285A02E99",
+    "route_id" : "7574D3A0-75D1-4FDF-A22B-250E14AE943F",
+    "trip_id" : "80B333A7-B6C5-4CD6-876F-BAB82B0A06EA"
+  },
+  {
+    "trip_short_name" : "IR 5584\/1754",
+    "direction_id" : 0,
+    "trip_headsign" : "Botoșani - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "DE5C7422-7E21-4615-90B8-733A77E4C970",
+    "route_id" : "099B9976-05AB-4CF9-8A85-1865ECAF8658",
+    "trip_id" : "FCCBFCC4-ECA4-4EB2-A7F0-391B542FE05E"
+  },
+  {
+    "trip_short_name" : "IR 1755\/5581",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Botoșani",
+    "service_id" : "noService",
+    "shape_id" : "7D02E9C3-06BF-4984-A08A-98B5D190A5A8",
+    "route_id" : "099B9976-05AB-4CF9-8A85-1865ECAF8658",
+    "trip_id" : "FBDA3E29-A88F-4923-BEC0-E1BCF829AC33"
+  },
+  {
+    "trip_short_name" : "EN 13M\/440",
+    "direction_id" : 0,
+    "trip_headsign" : "Moscow - Berlin",
+    "service_id" : "noService",
+    "shape_id" : "47C423FF-804F-447A-B229-69DE6E670E17",
+    "route_id" : "0BDB57F9-8FE7-4789-B6F5-FDFDF65CCE44",
+    "trip_id" : "7DF163E6-E2AD-4FCD-9924-D125E11C1AC9"
+  },
+  {
+    "trip_short_name" : "EN 441\/14M",
+    "direction_id" : 0,
+    "trip_headsign" : "Berlin - Moscow",
+    "service_id" : "noService",
+    "shape_id" : "05285A8D-7180-4E76-B67B-4351E339B841",
+    "route_id" : "0BDB57F9-8FE7-4789-B6F5-FDFDF65CCE44",
+    "trip_id" : "1900E5CE-9920-44BE-82FA-2518E4F73CD8"
+  },
+  {
+    "trip_short_name" : "IR 10641",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Cluj-Napoca",
+    "service_id" : "noService",
+    "shape_id" : "E5D03B70-0290-4E1C-B109-3E9AD8556062",
+    "route_id" : "9D075666-FBAE-456B-B0C7-994F290FE311",
+    "trip_id" : "86715E21-6F9F-4956-875E-FB4E2FB4E847"
+  },
+  {
+    "trip_short_name" : "IR 10642",
+    "direction_id" : 0,
+    "trip_headsign" : "Cluj-Napoca - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "32C1CC15-45B5-4FF7-9F7D-BCFD0BF90B9B",
+    "route_id" : "9D075666-FBAE-456B-B0C7-994F290FE311",
+    "trip_id" : "B96A2E9F-27E0-4118-BE32-F87A3DAC2BF0"
+  },
+  {
+    "trip_short_name" : "NJ 236",
+    "direction_id" : 0,
+    "trip_headsign" : "Venice - Vienna",
+    "service_id" : "noService",
+    "shape_id" : "DEDA9E73-FFD4-4FF2-9A04-AE0EC1B4C53A",
+    "route_id" : "A66EA186-397B-4017-9929-173F2D9DE7FC",
+    "trip_id" : "E87867F1-69FE-4A67-B8AE-386EAEDDA761"
+  },
+  {
+    "trip_short_name" : "NJ 237",
+    "direction_id" : 0,
+    "trip_headsign" : "Vienna - Venice",
+    "service_id" : "noService",
+    "shape_id" : "A8931394-3D72-46B7-9714-4BE6FCD942D5",
+    "route_id" : "A66EA186-397B-4017-9929-173F2D9DE7FC",
+    "trip_id" : "F41213C5-F175-4B54-A453-B17463DAA14E"
+  },
+  {
+    "trip_short_name" : "CAL",
+    "direction_id" : 0,
+    "trip_headsign" : "Edinburgh - London",
+    "service_id" : "noService",
+    "shape_id" : "61F70DF9-4482-4D18-BCAB-7D7302FFC3FF",
+    "route_id" : "313B1E99-8F35-405C-8B13-1255F8401D5D",
+    "trip_id" : "112FD740-3C8A-4210-A533-CE6628189A5C"
+  },
+  {
+    "trip_short_name" : "CAL",
+    "direction_id" : 0,
+    "trip_headsign" : "Glasgow - London",
+    "service_id" : "noService",
+    "shape_id" : "5AEB0728-6BA0-45C3-A566-265D26895765",
+    "route_id" : "313B1E99-8F35-405C-8B13-1255F8401D5D",
+    "trip_id" : "D3020AE1-41E1-4EF6-B9C3-0AA5660890C0"
+  },
+  {
+    "trip_short_name" : "CAL",
+    "direction_id" : 0,
+    "trip_headsign" : "London - Edinburgh",
+    "service_id" : "noService",
+    "shape_id" : "A98C9603-BCB0-4B8D-B51C-208686D97EAE",
+    "route_id" : "313B1E99-8F35-405C-8B13-1255F8401D5D",
+    "trip_id" : "ABF23823-3502-44E4-B3EB-1E28A3B0153E"
+  },
+  {
+    "trip_short_name" : "CAL",
+    "direction_id" : 0,
+    "trip_headsign" : "London - Glasgow",
+    "service_id" : "noService",
+    "shape_id" : "5F6A98E5-4E6A-457C-BD31-64537000C45B",
+    "route_id" : "313B1E99-8F35-405C-8B13-1255F8401D5D",
+    "trip_id" : "CA63996B-BEF6-48CE-8E51-C314F24B4FA4"
+  },
+  {
+    "trip_short_name" : "TLK 53170\/1",
+    "direction_id" : 0,
+    "trip_headsign" : "Gdynia - Zakopane",
+    "service_id" : "noService",
+    "shape_id" : "B6BD88EB-548D-4DE9-ACA5-AF86CCD66651",
+    "route_id" : "A1E6E6E7-45DA-458F-8B84-A3C2A20FF852",
+    "trip_id" : "BD8E5F92-1AB7-484E-9FF5-3ACF472864B0"
+  },
+  {
+    "trip_short_name" : "TLK 35170\/1",
+    "direction_id" : 0,
+    "trip_headsign" : "Zakopane - Gdynia",
+    "service_id" : "noService",
+    "shape_id" : "5BC2D063-9AF4-47E7-8243-F488A06027B9",
+    "route_id" : "A1E6E6E7-45DA-458F-8B84-A3C2A20FF852",
+    "trip_id" : "3524B833-F357-4408-8B32-E746C8750C93"
+  },
+  {
+    "trip_short_name" : "NJ 401",
+    "direction_id" : 0,
+    "trip_headsign" : "Hamburg - Zurich",
+    "service_id" : "noService",
+    "shape_id" : "CE3B5A4C-BE01-4806-9036-A59E8788E400",
+    "route_id" : "F4F8F208-9F13-4A5B-86F5-4AA60783D9BF",
+    "trip_id" : "1F0F0328-E90C-476B-8D95-BEE357A7F03C"
+  },
+  {
+    "trip_short_name" : "NJ 40470",
+    "direction_id" : 0,
+    "trip_headsign" : "Zurich - Hamburg",
+    "service_id" : "noService",
+    "shape_id" : "4549A870-8FC8-4BF1-BBF3-2C85B18DEE40",
+    "route_id" : "F4F8F208-9F13-4A5B-86F5-4AA60783D9BF",
+    "trip_id" : "3581205D-09AA-4DD9-AF0A-A8A6D8176101"
+  },
+  {
+    "trip_short_name" : "IC 406",
+    "direction_id" : 0,
+    "trip_headsign" : "Brașov - Budapest",
+    "service_id" : "noService",
+    "shape_id" : "9E4321F0-6674-49CE-AB86-BB81206723B4",
+    "route_id" : "6168BADE-D9C0-4978-BE0D-6D31CF530342",
+    "trip_id" : "13FD6737-302A-44C2-A9D6-BCC4F12EE7A4"
+  },
+  {
+    "trip_short_name" : "IC 407",
+    "direction_id" : 0,
+    "trip_headsign" : "Budapest - Brașov",
+    "service_id" : "noService",
+    "shape_id" : "685EA10F-D6EA-4B2D-95E1-D92DF63BFF49",
+    "route_id" : "6168BADE-D9C0-4978-BE0D-6D31CF530342",
+    "trip_id" : "1714D01A-DFE8-4AD1-8891-9A15A2C77191"
+  },
+  {
+    "trip_short_name" : "IR 1667",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Iași",
+    "service_id" : "noService",
+    "shape_id" : "B0461158-ABE4-42F3-8C3E-2AF5053A341A",
+    "route_id" : "DABCDB71-72BE-4A75-B75C-C9355C22AAA8",
+    "trip_id" : "D1F0418F-3BB6-492F-A924-4BA56E7CA249"
+  },
+  {
+    "trip_short_name" : "IR 1668",
+    "direction_id" : 0,
+    "trip_headsign" : "Iași - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "861BE277-942C-42B0-AB31-5742F11F6269",
+    "route_id" : "DABCDB71-72BE-4A75-B75C-C9355C22AAA8",
+    "trip_id" : "38ABD3AA-B714-469C-A3D5-953805BCE96B"
+  },
+  {
+    "trip_short_name" : "TH 221",
+    "direction_id" : 0,
+    "trip_headsign" : "Paris - Venice",
+    "service_id" : "noService",
+    "shape_id" : "9490B356-2FAD-4A09-87AC-99C9C9E2608A",
+    "route_id" : "7C803685-263E-477F-8B73-8B42AA29E58D",
+    "trip_id" : "69A2F600-C721-4F62-97B1-FF84F3A08539"
+  },
+  {
+    "trip_short_name" : "TH 220",
+    "direction_id" : 0,
+    "trip_headsign" : "Venice - Paris",
+    "service_id" : "noService",
+    "shape_id" : "4AD15F72-F5D9-4648-9223-4BD90390E106",
+    "route_id" : "7C803685-263E-477F-8B73-8B42AA29E58D",
+    "trip_id" : "FBB42D5B-4D75-493D-984F-D60C947A8CD4"
+  },
+  {
+    "trip_short_name" : "IC 230",
+    "direction_id" : 0,
+    "trip_headsign" : "Copenhagen - Hamburg",
+    "service_id" : "noService",
+    "shape_id" : "29683FBB-1CE9-44FC-9DF9-71FCECDD04E8",
+    "route_id" : "75C884D6-F925-4CD6-A737-13AD3BD78AEE",
+    "trip_id" : "9C329B8F-5FF5-46C6-B597-316613DEA9D2"
+  },
+  {
+    "trip_short_name" : "IC 231",
+    "direction_id" : 0,
+    "trip_headsign" : "Hamburg - Copenhagen",
+    "service_id" : "noService",
+    "shape_id" : "0E8341D8-8AD5-45A3-9F3A-D64EFB961843",
+    "route_id" : "75C884D6-F925-4CD6-A737-13AD3BD78AEE",
+    "trip_id" : "44EA0BF9-6FBA-49D5-B3A4-960047144384"
+  },
+  {
+    "trip_short_name" : "RIV",
+    "direction_id" : 0,
+    "trip_headsign" : "London - Penzance",
+    "service_id" : "noService",
+    "shape_id" : "6280FDDE-4F13-4927-BE86-9AF023DA6A9A",
+    "route_id" : "9B738D7E-2585-4ED9-B692-3AF451C3D963",
+    "trip_id" : "52826DFE-808C-4A66-BD99-201DD812066E"
+  },
+  {
+    "trip_short_name" : "RIV",
+    "direction_id" : 0,
+    "trip_headsign" : "Penzance - London",
+    "service_id" : "noService",
+    "shape_id" : "09155AEB-E5C7-4603-B7B1-47B51E84FA54",
+    "route_id" : "9B738D7E-2585-4ED9-B692-3AF451C3D963",
+    "trip_id" : "ABD166E3-37AA-412D-A2BE-ED5A8A7A5D44"
+  },
+  {
+    "trip_short_name" : "TLK 56170\/1",
+    "direction_id" : 0,
+    "trip_headsign" : "Gdynia - Szklarska Poręba",
+    "service_id" : "noService",
+    "shape_id" : "2AEB5993-666F-4B9A-86F2-4082A28294A1",
+    "route_id" : "F1E3B856-484A-435E-ABB3-D4479AC94BDC",
+    "trip_id" : "10B51F95-F61C-4233-BA57-89CA17A99131"
+  },
+  {
+    "trip_short_name" : "TLK 65170\/1",
+    "direction_id" : 0,
+    "trip_headsign" : "Szklarska Poręba - Gdynia",
+    "service_id" : "noService",
+    "shape_id" : "4E8B0EE0-499B-4B86-994B-914C0A38C262",
+    "route_id" : "F1E3B856-484A-435E-ABB3-D4479AC94BDC",
+    "trip_id" : "C326EF0D-D9CE-4F23-84D8-5B2ED6756B15"
+  },
+  {
+    "trip_short_name" : "NJ 40235",
+    "direction_id" : 0,
+    "trip_headsign" : "Milan - Munich",
+    "service_id" : "noService",
+    "shape_id" : "B0889CCA-77A8-4E21-8AB7-E3FDADE52296",
+    "route_id" : "68F744D8-3114-4429-836F-47FC2878FEC8",
+    "trip_id" : "5AE74A93-2328-40AF-8CC0-E6EE7828284D"
+  },
+  {
+    "trip_short_name" : "NJ 40295",
+    "direction_id" : 0,
+    "trip_headsign" : "Munich - Milan",
+    "service_id" : "noService",
+    "shape_id" : "3E2FE7A9-28E0-4395-9EE7-7A05831F3FE5",
+    "route_id" : "68F744D8-3114-4429-836F-47FC2878FEC8",
+    "trip_id" : "C1A22FBC-34D6-4C0E-8E3E-56676D9FC242"
+  },
+  {
+    "trip_short_name" : "EN 444",
+    "direction_id" : 0,
+    "trip_headsign" : "Košice - Prague",
+    "service_id" : "noService",
+    "shape_id" : "B678FAC9-A313-4F0D-82D8-BC072FC279B6",
+    "route_id" : "D72D1765-6094-4F4B-9F2B-01016A62B5A3",
+    "trip_id" : "81E7E331-39BB-460E-9285-21F6C3CFABE1"
+  },
+  {
+    "trip_short_name" : "EN 445",
+    "direction_id" : 0,
+    "trip_headsign" : "Prague - Košice",
+    "service_id" : "noService",
+    "shape_id" : "6F9C2792-469B-42EF-A01E-1F6EE36CBFEF",
+    "route_id" : "D72D1765-6094-4F4B-9F2B-01016A62B5A3",
+    "trip_id" : "56AE0643-01EA-4B77-9D54-976B0283115C"
+  },
+  {
+    "trip_short_name" : "IR 1641\/4541",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Târgu Mureș",
+    "service_id" : "noService",
+    "shape_id" : "61BBD392-A36A-4DB6-87CD-D9AA3D1A2E64",
+    "route_id" : "318DEDEE-311D-4991-915D-7F1CE0C40118",
+    "trip_id" : "C92450B9-215B-4D73-9D69-E42F0857DB1F"
+  },
+  {
+    "trip_short_name" : "IR 4550\/1644",
+    "direction_id" : 0,
+    "trip_headsign" : "Târgu Mureș - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "9393B9B1-C85A-4691-B48B-7F54CEDE9F8D",
+    "route_id" : "318DEDEE-311D-4991-915D-7F1CE0C40118",
+    "trip_id" : "FD637B3F-8BA8-4799-96C8-03AD1C633DD2"
+  },
+  {
+    "trip_short_name" : "EN 442",
+    "direction_id" : 0,
+    "trip_headsign" : "Humenné - Prague",
+    "service_id" : "noService",
+    "shape_id" : "C6E4AEAF-158F-43F5-914F-B25F86E36502",
+    "route_id" : "0DD3ABA9-A84C-4E06-8993-669245F53320",
+    "trip_id" : "1BABFC2B-6BD4-43C8-A337-B0594BABD5CE"
+  },
+  {
+    "trip_short_name" : "EN 443",
+    "direction_id" : 0,
+    "trip_headsign" : "Prague - Humenné",
+    "service_id" : "noService",
+    "shape_id" : "5AC1DB26-D07B-4700-89AB-FC7417D2C99D",
+    "route_id" : "0DD3ABA9-A84C-4E06-8993-669245F53320",
+    "trip_id" : "E2199837-D76D-46D7-B95F-7CF72FB673DE"
+  },
+  {
+    "trip_short_name" : "EN 408\/18B",
+    "direction_id" : 0,
+    "trip_headsign" : "Nice - Moscow",
+    "service_id" : "noService",
+    "shape_id" : "FC874A05-A42D-4C47-92BC-F79CD1267360",
+    "route_id" : "9A6B2836-809D-4C50-8396-1D3A3046DED7",
+    "trip_id" : "F0D37338-3A06-460A-ADBE-00D9BAD94E5D"
+  },
+  {
+    "trip_short_name" : "EN 17B\/409",
+    "direction_id" : 0,
+    "trip_headsign" : "Moscow - Nice",
+    "service_id" : "noService",
+    "shape_id" : "F4EF515F-1B62-4761-856B-A45AC3642F94",
+    "route_id" : "9A6B2836-809D-4C50-8396-1D3A3046DED7",
+    "trip_id" : "FAB70C12-DA94-4F7C-B72D-B113A75EFA3B"
+  },
+  {
+    "trip_short_name" : "EN 50457",
+    "direction_id" : 0,
+    "trip_headsign" : "Berlin - Przemyśl",
+    "service_id" : "noService",
+    "shape_id" : "24414E97-F9A2-4750-A1EC-0777A20120FC",
+    "route_id" : "52B91FBE-8E72-4D7B-A6E6-E74685F25746",
+    "trip_id" : "00546E29-E32B-49FB-8EE9-2305B4A8CC48"
+  },
+  {
+    "trip_short_name" : "LE 1350",
+    "direction_id" : 0,
+    "trip_headsign" : "Košice - Prague",
+    "service_id" : "noService",
+    "shape_id" : "D55E82FB-AB5D-4CD6-905C-F448E989F794",
+    "route_id" : "4E38BD96-518F-4658-801D-7ABB1BA7C7BE",
+    "trip_id" : "809D3DE5-0EF5-41ED-9A07-836BA9578BC6"
+  },
+  {
+    "trip_short_name" : "LE 1367",
+    "direction_id" : 0,
+    "trip_headsign" : "Prague - Košice",
+    "service_id" : "noService",
+    "shape_id" : "2F4D2036-ED8D-4512-8D66-DC4C2F27A926",
+    "route_id" : "4E38BD96-518F-4658-801D-7ABB1BA7C7BE",
+    "trip_id" : "3C4273B3-58F8-48FA-872B-C5B2A4D3F3B6"
+  },
+  {
+    "trip_short_name" : "EN 60444",
+    "direction_id" : 0,
+    "trip_headsign" : "Košice - Vienna",
+    "service_id" : "noService",
+    "shape_id" : "87499CF7-5426-44CE-A769-FAA0D37BDC86",
+    "route_id" : "8AFFC2F7-BE8D-4BFB-92EC-E2CC707C4680",
+    "trip_id" : "85B3FE55-80A8-457E-8C69-75F8E9876DE5"
+  },
+  {
+    "trip_short_name" : "EN 60406",
+    "direction_id" : 0,
+    "trip_headsign" : "Vienna - Košice",
+    "service_id" : "noService",
+    "shape_id" : "79816BEE-9D2A-405C-9348-D84CE7D86FF3",
+    "route_id" : "8AFFC2F7-BE8D-4BFB-92EC-E2CC707C4680",
+    "trip_id" : "48F7BFCE-02EC-496C-B3B8-133B2E6622BE"
+  },
+  {
+    "trip_short_name" : "R 801",
+    "direction_id" : 0,
+    "trip_headsign" : "Bratislava - Prešov",
+    "service_id" : "noService",
+    "shape_id" : "F9D7B4A2-9F3E-4C94-85D3-CC93E462F8A1",
+    "route_id" : "DA4B6F13-973A-4998-A1F5-5ADF84A6F02B",
+    "trip_id" : "7DB040A6-ED49-4779-B472-4E291B12617D"
+  },
+  {
+    "trip_short_name" : "R 800",
+    "direction_id" : 0,
+    "trip_headsign" : "Prešov - Bratislava",
+    "service_id" : "noService",
+    "shape_id" : "8ED6F2A6-B2D9-4F45-9CCC-6BBD898CAE5E",
+    "route_id" : "DA4B6F13-973A-4998-A1F5-5ADF84A6F02B",
+    "trip_id" : "1C0B1D40-C416-427D-B796-24D5E5C41CB3"
+  },
+  {
+    "trip_short_name" : "NT 79",
+    "direction_id" : 0,
+    "trip_headsign" : "Duved - Malmö",
+    "service_id" : "noService",
+    "shape_id" : "29B75FED-EB52-48B9-BB70-D69DD12F4D66",
+    "route_id" : "6E90EB84-E1A0-4998-99D9-15BAAB4FB71E",
+    "trip_id" : "D56DEA79-4036-4B7F-A843-E1C572111935"
+  },
+  {
+    "trip_short_name" : "NT 78",
+    "direction_id" : 0,
+    "trip_headsign" : "Malmö - Duved",
+    "service_id" : "noService",
+    "shape_id" : "75B69100-5577-497A-B819-7E4B63BDB585",
+    "route_id" : "6E90EB84-E1A0-4998-99D9-15BAAB4FB71E",
+    "trip_id" : "7810892A-80A8-4004-A2A3-1FB786063BAD"
+  },
+  {
+    "trip_short_name" : "ICN 1956",
+    "direction_id" : 0,
+    "trip_headsign" : "Syracuse - Rome",
+    "service_id" : "noService",
+    "shape_id" : "38D97652-487D-4197-9860-C48C6F44CED6",
+    "route_id" : "DEEA5164-F9FA-48A3-B9BF-EE319443F471",
+    "trip_id" : "CADEF523-7B53-4B40-AFBF-44E68AE65BDC"
+  },
+  {
+    "trip_short_name" : "ICN 1955",
+    "direction_id" : 0,
+    "trip_headsign" : "Rome - Syracuse",
+    "service_id" : "noService",
+    "shape_id" : "D89D9083-5D50-4389-9604-36686781F4D0",
+    "route_id" : "DEEA5164-F9FA-48A3-B9BF-EE319443F471",
+    "trip_id" : "197D2482-3210-49F7-8844-CFAC28572E27"
+  },
+  {
+    "trip_short_name" : "NJ 491",
+    "direction_id" : 0,
+    "trip_headsign" : "Hamburg - Vienna",
+    "service_id" : "noService",
+    "shape_id" : "9A461AE7-FFAA-4419-9156-0A238E724E95",
+    "route_id" : "20EA9A68-9384-43FE-84D5-DAD4E3C55F09",
+    "trip_id" : "17882A29-5679-4887-8352-F07C3F38A6FF"
+  },
+  {
+    "trip_short_name" : "NJ 490",
+    "direction_id" : 0,
+    "trip_headsign" : "Vienna - Hamburg",
+    "service_id" : "noService",
+    "shape_id" : "7FE28D57-F154-4B0C-82D5-304E7FA9B935",
+    "route_id" : "20EA9A68-9384-43FE-84D5-DAD4E3C55F09",
+    "trip_id" : "6DFD983F-C66D-40C0-BC10-A355D3C5E146"
+  },
+  {
+    "trip_short_name" : "TLK 38190\/1",
+    "direction_id" : 0,
+    "trip_headsign" : "Krakow - Świnoujście",
+    "service_id" : "noService",
+    "shape_id" : "BBCD4F4E-1B23-42BE-BD0F-1ACE312FE311",
+    "route_id" : "F53F4FC4-E1BA-49F8-9F5B-6D082C38D798",
+    "trip_id" : "8EA3B404-A0C9-4361-B0D7-99807A756B02"
+  },
+  {
+    "trip_short_name" : "TLK 83190\/1",
+    "direction_id" : 0,
+    "trip_headsign" : "Świnoujście - Krakow",
+    "service_id" : "noService",
+    "shape_id" : "75D9EA6B-0EED-4D22-A951-22B2A81888B8",
+    "route_id" : "F53F4FC4-E1BA-49F8-9F5B-6D082C38D798",
+    "trip_id" : "5F73C5E5-2255-4A86-8F3F-901F196AFBC3"
+  },
+  {
+    "trip_short_name" : "D 461\/1461",
+    "direction_id" : 0,
+    "trip_headsign" : "Bucharest - Thessaloniki",
+    "service_id" : "noService",
+    "shape_id" : "DF721209-C4D1-4737-A6D3-DEC7743F5F0B",
+    "route_id" : "E43CBCDE-7373-45C1-BDA1-BC9E41634AE5",
+    "trip_id" : "D6EE8CFB-580E-42E0-A554-DB62F4D714E3"
+  },
+  {
+    "trip_short_name" : "D 1460\/460",
+    "direction_id" : 0,
+    "trip_headsign" : "Thessaloniki - Bucharest",
+    "service_id" : "noService",
+    "shape_id" : "5F351055-114F-462A-8695-CE95AF47E8E0",
+    "route_id" : "E43CBCDE-7373-45C1-BDA1-BC9E41634AE5",
+    "trip_id" : "D5B1D306-D9CE-44F7-AF16-2B38E9945813"
+  },
+  {
+    "trip_short_name" : "RT 405",
+    "direction_id" : 0,
+    "trip_headsign" : "Oslo - Trondheim",
+    "service_id" : "noService",
+    "shape_id" : "1297A1A7-8503-4B3E-BC7A-A04901493622",
+    "route_id" : "CD8DE232-FA7D-439E-82C8-F5F318B37158",
+    "trip_id" : "F0A96850-A9F6-40ED-A9E3-E065C7880D64"
+  },
+  {
+    "trip_short_name" : "RT 406",
+    "direction_id" : 0,
+    "trip_headsign" : "Trondheim - Oslo",
+    "service_id" : "noService",
+    "shape_id" : "40F88D18-B9EA-4125-8674-07076D715A33",
+    "route_id" : "CD8DE232-FA7D-439E-82C8-F5F318B37158",
+    "trip_id" : "91596201-C6A1-4A8F-9C63-6DBE8BE79A76"
+  },
+  {
+    "trip_short_name" : "ICN 3730",
+    "direction_id" : 0,
+    "trip_headsign" : "Cerbère - Paris",
+    "service_id" : "noService",
+    "shape_id" : "39B6EDBD-BDFE-4E13-A836-C310267B818D",
+    "route_id" : "F23D64E1-0781-4112-90F8-6229859946C7",
+    "trip_id" : "52F94815-A338-4F99-A596-B054131E0F89"
+  },
+  {
+    "trip_short_name" : "ICN 3731",
+    "direction_id" : 0,
+    "trip_headsign" : "Paris - Portbou",
+    "service_id" : "noService",
+    "shape_id" : "D363FB08-5BB1-47C5-89A0-603C7BE3269F",
+    "route_id" : "F23D64E1-0781-4112-90F8-6229859946C7",
+    "trip_id" : "5DE30EA4-5C54-43C9-9B7C-052EC3CD3C4D"
+  },
+  {
+    "trip_short_name" : "R 800\/282",
+    "direction_id" : 0,
+    "trip_headsign" : "Prešov - Prague",
+    "service_id" : "noService",
+    "shape_id" : "4FD42EF4-D856-4C0C-979B-86263C51C26A",
+    "route_id" : "C2A0EF9C-56F1-45CB-8389-22DE75600EB7",
+    "trip_id" : "A9294C35-05A6-4FF6-9B27-D08CFE440052"
+  },
+  {
+    "trip_short_name" : "EC 283\/801",
+    "direction_id" : 0,
+    "trip_headsign" : "Prague - Prešov",
+    "service_id" : "noService",
+    "shape_id" : "0EFA8C48-6ACC-4193-9E38-F5497535F96B",
+    "route_id" : "C2A0EF9C-56F1-45CB-8389-22DE75600EB7",
+    "trip_id" : "E77907B7-D632-47E2-BF06-7E876A32E781"
+  },
+  {
+    "trip_short_name" : "EN 1234 nightjet",
+    "direction_id" : 0,
+    "trip_headsign" : "Livorno - Vienna",
+    "service_id" : "noService",
+    "shape_id" : "416CD5D4-3045-437E-A9F2-9F55B4E1FB5F",
+    "route_id" : "34BCB58F-48CB-4DD6-B567-2E8E6C4FB7FA",
+    "trip_id" : "D1AC6EA0-9A28-4F8D-BABD-6EBDF45F1806"
+  },
+  {
+    "trip_short_name" : "EN 1237 nightjet",
+    "direction_id" : 0,
+    "trip_headsign" : "Vienna - Livorno",
+    "service_id" : "noService",
+    "shape_id" : "2D25545B-4160-44BC-9284-65E112A47E9B",
+    "route_id" : "34BCB58F-48CB-4DD6-B567-2E8E6C4FB7FA",
+    "trip_id" : "C82AD11F-C40A-4598-A991-9EAE20625671"
+  },
+  {
+    "trip_short_name" : "EN 50463",
+    "direction_id" : 0,
+    "trip_headsign" : "Munich - Zagreb",
+    "service_id" : "noService",
+    "shape_id" : "E67ECE0E-2BCC-42CA-9295-86432F5D1C52",
+    "route_id" : "3BF32AB1-7958-4051-A742-8877C7094376",
+    "trip_id" : "1C6A7F8E-C952-4FED-B964-7337376263A1"
+  },
+  {
+    "trip_short_name" : "EN 498\/462",
+    "direction_id" : 0,
+    "trip_headsign" : "Zagreb - Munich",
+    "service_id" : "noService",
+    "shape_id" : "3E68BD32-6DA7-473E-9B7F-C87FF3E9569C",
+    "route_id" : "3BF32AB1-7958-4051-A742-8877C7094376",
+    "trip_id" : "F6714330-4858-46E0-A419-3497903BAC83"
+  }
+]
